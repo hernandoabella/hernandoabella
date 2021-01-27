@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Hernando Abella,  full-stack  developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">Hello. I'm Hernando Abella,  full-stack  developer 💻 working remotely since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on my personal website, my facebook page and my youtube channel :)  
