@@ -1,4 +1,4 @@
-### <div align="center">Hello. I'm Hernando Abella,  full-stack  developer 💻 working remotely since 2018 🚀</div>  
+### Hello. I'm Hernando Abella,  full-stack  developer 💻 working remotely since 2018 🚀
   
 
 - 🔭 I’m currently working on my personal website, my facebook page and my youtube channel :)  
