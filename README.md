@@ -1,4 +1,4 @@
-### Hello. I'm Hernando Abella,  full-stack  developer 💻 working remotely since 2018 🚀
+### Hello. I'm Hernando Abella,  Web Developer with +5 years 🚀
   
 
 - 🔭 I’m currently working on my personal website, my facebook page and my youtube channel :)  
