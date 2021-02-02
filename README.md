@@ -16,7 +16,7 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
+
 <a href="https://github.com/hernandoabella" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -35,7 +35,7 @@
 <a href="https://stackoverflow.com/users/hernandoabella" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
+
   
 
 <br/>  
@@ -44,11 +44,7 @@
   
 
 <br/>  
-
   
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hernandoabella&&style=flat-square" align="center" />
 </div>  
@@ -56,7 +52,7 @@
 
 <br/>  
 
-<div align="center">
+
             <a href="https://paypal.me/hernandoabella" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
@@ -68,7 +64,7 @@
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
                 />
-            </a></div>
-<br />
+            </a>
+
 
 
