@@ -2,7 +2,9 @@
 
 
 
-![alt text](https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg=250x "Logo Title Text 1")
+![alt text] "Logo Title Text 1")
+
+<img src="https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg" width="200" height="200" />
 
 <div style="align: center"><div>
 
