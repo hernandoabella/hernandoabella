@@ -1,6 +1,6 @@
 <div align="center"><h1>Hi! I'm Hernando Abella</h1></div>
 
-<img src="https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg" width="200" height="200" />
+<div align="center"><img src="https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg" width="200" height="200" /></div>
 
 <div align="center"><h2>Full-Stack Engineer</h2></div>
 
@@ -24,5 +24,4 @@
 everything is with love
 
 ### Follow me 
-
 
