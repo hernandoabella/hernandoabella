@@ -1,12 +1,7 @@
-<h1 style="align: center">Hi! I'm Hernando Abella </h1>
-
-
-
-![alt text] "Logo Title Text 1")
+# Hi! I'm Hernando Abella
 
 <img src="https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg" width="200" height="200" />
 
-<div style="align: center"><div>
 
 ## Full-Stack Engineer
 
@@ -25,3 +20,8 @@
 - ⚡ Fun fact: I use tabs over spaces  
 
 everything is with love
+
+### Follow me on
+
+https://www.facebook.com/hernandoabellaoficial
+https://www.instagram.com/hernandoabellaoficial
