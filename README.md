@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/hernandoabella/hernando-abella-template/blob/main/images/logo.png "Logo Title Text 1")
+![alt text](https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg "Logo Title Text 1")
 
 <div style="align: center"><div>
 
