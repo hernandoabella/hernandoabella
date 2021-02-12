@@ -5,7 +5,7 @@
 <div style="align: center"><h2>Full-Stack Engineer</h2></div>
 
 
-<p>I've been developing awesome interfaces for more than 10 years. Love coding.<p>
+<p style"align: center">I've been developing awesome interfaces for more than 10 years. Love coding.<p>
 
 ### Years of Experience +10
   
