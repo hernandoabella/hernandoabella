@@ -1,8 +1,8 @@
-<h1 style="align: center"> # Hi! I'm Hernando Abella </h1>
+<h1 style="align: center">Hi! I'm Hernando Abella </h1>
 
 
 
-![alt text](https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg "Logo Title Text 1")
+![alt text](https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg =250x "Logo Title Text 1")
 
 <div style="align: center"><div>
 
