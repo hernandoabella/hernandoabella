@@ -2,7 +2,7 @@
 
 <div align="center"><h1>Hi! I'm Hernando Abella</h1></div> 
 
-<div align="right"><h3>Full-Stack Engineer</h3></div>
+<div align="center"><h3>Full-Stack Engineer</h3></div>
 
 <p align="center">I've been developing awesome interfaces for more than 10 years. Love coding.<p>
 
