@@ -6,17 +6,11 @@
 
 <p align="center">I've been developing awesome interfaces for more than 10 years. Love coding.<p>
 
-### Years of Experience +10
-  
-
 - 🔭 I’m currently working on my personal website, my facebook page and my youtube channel :)  
   
-
 - 🌱 I’m currently learning backend development  
-  
 
 - ❓ Ask me about anything 😜  
-  
 
 - ⚡ Fun fact: I use tabs over spaces  
 
