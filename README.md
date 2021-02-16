@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg" width="200" height="200" /></div>
+<div align="center"><img style="border-radius:100%" src="https://github.com/hernandoabella/hernando-abella-template/blob/main/images/profile.jpg" width="200" height="200" /></div>
 
 <div align="center"><h1>Hi! I'm Hernando Abella</h1></div>
 
