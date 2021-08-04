@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hernando Abella</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
+<p align="center">Learning to code opened the doors to a new world for me. I have learned to solve technical problems in a simple and uncomplicated way, that is why I have created this space to share all my tricks with you.</p>
 
 - 🔭 I’m currently working on [my website](https://www.hernandoabella.com)
 
 - 👨‍💻 All of my projects are available at [www.hernandoabella.com/portfolio](www.hernandoabella.com/portfolio)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **anything you want**
 
 - 📫 How to reach me **hernandoabella@gmail.com**
 
