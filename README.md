@@ -1,4 +1,4 @@
-
+<div align="center"><img src="https://user-images.githubusercontent.com/24196857/151287423-c86d0411-e1a4-44aa-a76a-327aa21fecb2.png" width="200px"></div>
 
 <h1 align="center">👋 ¡Hola!, soy Hernando Abella</h1>
 
@@ -18,4 +18,4 @@ html, css, javascript, git & github, sass, bootstrap, react, angular, vue, sql, 
 
 ### 🙏 Support
 
-<span>[!["Buy me a coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hernandoabella)
+- [!["Buy me a coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hernandoabella)
