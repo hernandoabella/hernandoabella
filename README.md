@@ -21,8 +21,8 @@ html, css, javascript, git & github, sass, bootstrap, react, angular, vue, sql, 
 
 ### Social Network:
 
-Facebook: https://www.twitter.com/hernandoabellaoficial
-Twitter: https://www.twitter.com/hernandoabella
+Facebook: https://www.twitter.com/hernandoabellaoficial <br>
+Twitter: https://www.twitter.com/hernandoabella <br>
 Instagram: https://www.instagram.com/hernandoabellaoficial
 
 ### 🙏 Support
