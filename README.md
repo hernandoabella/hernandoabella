@@ -1,4 +1,4 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/24196857/151287423-c86d0411-e1a4-44aa-a76a-327aa21fecb2.png" width="200px"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/24196857/152701376-ff640121-da35-418a-aeeb-1ddd13f4adff.jpg" width="200px"></div>
 
 <h1 align="center">👋 ¡Hola!, soy Hernando Abella</h1>
 
