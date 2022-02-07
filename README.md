@@ -17,6 +17,7 @@ html, css, javascript, git & github, sass, bootstrap, react, angular, vue, sql, 
 3. Caja de ritmos:              https://github.com/hernandoabella/caja-de-ritmos
 4. Entrenador matemático:       https://github.com/hernandoabella/entrenador-matematico
 5. Calculadora de llamas:       https://github.com/hernandoabella/calculadora-de-llamas
+6. Carrito de compras:          https://github.com/hernandoabella/carrito-de-compras
 
 ### 🤳 Social Network:
 
