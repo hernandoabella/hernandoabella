@@ -1,6 +1,6 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/24196857/153276590-c0ce35f8-b342-46d5-a9f8-ec6b8aee429b.jpg" width="200px"></div>
 
-<h1 align="center">👋 ¡Hola!, soy Hernando Abella</h1>
+
+<h1>👋 ¡Hola!, soy Hernando Abella</h1>
 
 ### 👨‍💻 Senior Full Stack Engineer
 
