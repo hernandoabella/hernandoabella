@@ -1,4 +1,4 @@
-<h1>👋 ¡Hola!, soy Hernando Abella</h1>
+<h1>👋 Hi!, i'm Hernando Abella</h1>
 
 ### 👨‍💻 Senior Full Stack Engineer
 
