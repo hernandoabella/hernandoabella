@@ -6,16 +6,22 @@ Thanks for visiting my Github profile.
 ## Coding and design tools i use 🛠️:
 
 ### Coding:
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
-  <span> CSS, JS <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px"/>
-    </span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>
-</span> & React.
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px"/></span> 
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px"/>
+</span>
 
 ### Design:
-- Canva, Figma, Adobe Illustrator.
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
 
 ## If you like what i do follow me on 😲:
 
-[facebook](https://www.facebook.com/hernandoabellaoficial)
-[instagram](instagram.com/hernandoabellaoficial)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/800px-Logo_of_Twitter.svg.png" width="30px"/>](twitter.com/hernandoabella)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" width="30px"/>](https://www.facebook.com/hernandoabellaoficial)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" width="30px"/>](https://instagram.com/hernandoabellaoficial)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="30px"/>](twitter.com/hernandoabella)
