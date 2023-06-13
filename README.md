@@ -23,5 +23,5 @@ Thanks for visiting my Github profile.
 ## If you like what i do follow me on 😲:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" width="30px"/>](https://www.facebook.com/hernandoabellaoficial)
-[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" width="30px"/>](https://instagram.com/hernandoabellaoficial)
-[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="30px"/>](twitter.com/hernandoabella)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" width="30px"/>](https://www.instagram.com/hernandoabellaoficial)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="30px"/>](https://www.twitter.com/hernandoabella)
