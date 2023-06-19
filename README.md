@@ -1,9 +1,9 @@
-# Hey there 👋, i'm Hernando!
-Thanks for visiting my Github profile.
+# ¡Hola 👋 soy Hernando!
+Gracias por visitar mi perfil de Github 🐱🐙.
 
-🧑‍💻 I'm working on JS-APPS.
+🧑‍💻 Actualmente me encuentro trabajando en [JS-APPS](https://github.com/hernandoabella/js-apps).
 
-## Coding and design tools i use 🛠️:
+## Herramientas de código y diseño que utilizo 🛠️:
 
 ### Coding:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
@@ -19,6 +19,11 @@ Thanks for visiting my Github profile.
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
+
+## Resources 📚:
+
+- [Estructuras de datos y algoritmos en JavaScript](https://github.com/hernandoabella/estructura-de-datos-y-algoritmos-en-js)
+- [Patrones de diseño en JavaScrip](https://github.com/hernandoabella/patrones-de-diseno-js)
 
 ## If you like what i do follow me on 😲:
 
