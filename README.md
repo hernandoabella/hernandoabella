@@ -5,7 +5,7 @@ Gracias por visitar mi perfil de Github 🐱🐙.
 
 ## Herramientas de código y diseño que utilizo 🛠️:
 
-### Código:
+### Herramientas de Código:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/></span>
@@ -15,10 +15,15 @@ Gracias por visitar mi perfil de Github 🐱🐙.
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px"/>
 </span>
 
-### Diseño:
+### Herramientas de Diseño:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
+
+## Proyectos paralelos:
+
+- [JS-APPS](https://github.com/hernandoabella/js-apps): +100 aplicaciones para practicar el código de JavaScript.
+- [Patrones de Asteriscos](https://github.com/hernandoabella/patrones-de-asteriscos-en-js): Mega colección de patrones de asteriscos en JavaScript.
 
 ## Recursos 📚:
 
@@ -30,3 +35,4 @@ Gracias por visitar mi perfil de Github 🐱🐙.
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" width="30px"/>](https://www.facebook.com/hernandoabellaoficial)
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" width="30px"/>](https://www.instagram.com/hernandoabellaoficial)
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="30px"/>](https://www.twitter.com/hernandoabella)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="30px"/>](https://www.youtube.com/c/hernandoabella)
