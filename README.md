@@ -23,7 +23,7 @@ Gracias por visitar mi perfil de Github 🐱🐙.
 ## Recursos 📚:
 
 - [Estructuras de datos y algoritmos en JavaScript](https://github.com/hernandoabella/estructura-de-datos-y-algoritmos-en-js)
-- [Patrones de diseño en JavaScrip](https://github.com/hernandoabella/patrones-de-diseno-js)
+- [Patrones de diseño en JavaScript](https://github.com/hernandoabella/patrones-de-diseno-js)
 
 ## Sígueme 😲:
 
