@@ -24,6 +24,7 @@ Gracias por visitar mi perfil de Github 🐱🐙.
 
 - [JS-APPS](https://github.com/hernandoabella/js-apps): +100 aplicaciones para practicar el código de JavaScript.
 - [Patrones de Asteriscos](https://github.com/hernandoabella/patrones-de-asteriscos-en-js): Mega colección de patrones de asteriscos en JavaScript.
+- [Bromas de Programación](https://github.com/hernandoabella/bromas-de-programacion): Colección de chistes, ocurrencias y memes relacionados con el mundo de la programación.
 
 ## Recursos 📚:
 
