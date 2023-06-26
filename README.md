@@ -22,9 +22,9 @@ Gracias por visitar mi perfil de Github 🐱🐙.
 
 ## Proyectos paralelos:
 
-- [JS-APPS](https://github.com/hernandoabella/js-apps): +100 aplicaciones para practicar el código de JavaScript.
-- [AsteriskPatterns](https://github.com/hernandoabella/patrones-de-asteriscos-en-js): Mega colección de patrones de asteriscos en JavaScript.
-- [Bromas de Programación](https://github.com/hernandoabella/bromas-de-programacion): Colección de chistes, ocurrencias y memes relacionados con el mundo de la programación.
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Colección de +100 aplicaciones para practicar el código de JavaScript.
+- [AsteriskPatterns](https://github.com/hernandoabella/patrones-de-asteriscos-en-js): Colección de patrones de asteriscos en JavaScript.
+- [Laughing Vault](https://github.com/hernandoabella/bromas-de-programacion): Colección de chistes, ocurrencias y memes relacionados con el mundo de la programación.
 
 ## Recursos 📚:
 
