@@ -1,4 +1,4 @@
-w# ¡Hola 👋 soy Hernando!
+# ¡Hola 👋 soy Hernando!
 Gracias por visitar mi perfil de Github 🐱🐙.
 
 🧑‍💻 Actualmente me encuentro trabajando en [JS-APPS](https://github.com/hernandoabella/js-apps).
