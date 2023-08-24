@@ -23,6 +23,7 @@ Thanks for visiting my Github profile 🐱🐙.
 ## Side projects:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Colección de +100 aplicaciones para practicar el código de JavaScript.
 - [AsteriskPatterns](https://github.com/hernandoabella/patrones-de-asteriscos-en-js): Colección de patrones de asteriscos en JavaScript.
+- FollowerFiesta: Celebrate Your Social Influence!
 
 ## Resources 📚:
 
