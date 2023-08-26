@@ -21,8 +21,8 @@ Thanks for visiting my Github profile 🐱🐙.
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
 
 ## Side projects:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Colección de +100 aplicaciones para practicar el código de JavaScript.
-- [AsteriskPatterns](https://github.com/hernandoabella/patrones-de-asteriscos-en-js): Colección de patrones de asteriscos en JavaScript.
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 100+ applications to practice JavaScript code.
+- [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 - [FollowerParty](https://github.com/hernandoabella/followerparty): Celebrate Your Social Influence!
 
 ## Resources 📚:
