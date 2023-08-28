@@ -1,8 +1,6 @@
 # Hello 👋 i'm Hernando!
 Thanks for visiting my Github profile 🐱🐙.
 
-🧑‍💻 I am currently working on: [JS-APPS](https://github.com/hernandoabella/js-apps).
-
 ## Code and design tools I use 🛠️:
 
 ### Code Tools:
