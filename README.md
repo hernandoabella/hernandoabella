@@ -26,7 +26,7 @@ Thanks for visiting my Github profile 🐱🐙.
 ## Resources 📚:
 
 - [Estructuras de datos y algoritmos en JavaScript](https://github.com/hernandoabella/estructura-de-datos-y-algoritmos-en-js): DSA and Algorithms in JS. 
-- [Patrones de diseño en JavaScript](https://github.com/hernandoabella/patrones-de-diseno-js): Design Patterns in JavaScript.
+- [Design Patterns in JS](https://github.com/hernandoabella/design-patterns-in-javascript): Design Patterns in JavaScript.
 
 ## Follow me 😲:
 
