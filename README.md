@@ -35,6 +35,7 @@ Thanks for visiting my Github profile 🐱🐙.
 - Testing in JS
 - Js apis
 - Maintenance and Scalability in JavaScript Projects
+- javascript performance operations
 
 ## Follow me 😲:
 
