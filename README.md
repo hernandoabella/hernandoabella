@@ -1,6 +1,15 @@
 # Hello 👋 i'm Hernando!
 Thanks for visiting my Github profile 🐱🐙.
 
+## Portfolio and Personal Website 🌐
+
+If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
+
+- [Portfolio](https://hernandoabella.github.io/portfolio/)
+- [Personal Website](https://www.hernandoabella.dev)
+
+These links provide a more in-depth view of my projects and development experience. I hope you find something interesting!
+
 ## Code and design tools I use 🛠️:
 
 ### Code Tools:
@@ -40,3 +49,20 @@ Thanks for visiting my Github profile 🐱🐙.
 ## Follow me 😲:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="30px"/>](https://www.twitter.com/hernandoabella)
+
+## Support Me ☕
+
+If you find my work helpful or just want to show your appreciation, you can buy me a coffee:
+
+- [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
+
+Your support is greatly appreciated!
+
+## Contact Me
+
+Feel free to connect with me through these channels:
+
+- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- Email: your.email@example.com
+- Twitter: [@yourusername](https://twitter.com/yourusername)
