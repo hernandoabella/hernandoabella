@@ -31,6 +31,7 @@ Thanks for visiting my Github profile 🐱🐙.
 - [Interview Questions](https://github.com/hernandoabella/interview-questions-js): 100+ JavaScript Interview Questions.
 - Clean code
 - Solid Principles
+- JavaScript Security: 
 
 ## Follow me 😲:
 
