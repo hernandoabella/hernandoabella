@@ -62,7 +62,6 @@ Your support is greatly appreciated!
 
 Feel free to connect with me through these channels:
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/hernandoabella)
+- Email: hernandoabella@gmail.com
+- Twitter: [@yourusername](https://twitter.com/hernandoabella)
