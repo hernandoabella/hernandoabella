@@ -46,6 +46,11 @@ These links provide a more in-depth view of my projects and development experien
 - Maintenance and Scalability in JavaScript Projects
 - javascript performance operations
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hernandoabella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hernandoabella&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## Follow me 😲:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="30px"/>](https://www.twitter.com/hernandoabella)
