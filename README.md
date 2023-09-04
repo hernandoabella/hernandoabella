@@ -69,4 +69,3 @@ Feel free to connect with me through these channels:
 
 - hernandoabella@gmail.com
 - [@hernandoabella](https://twitter.com/hernandoabella)
-- [LinkedIn](https://linkedin.com/in/hernandoabella)
