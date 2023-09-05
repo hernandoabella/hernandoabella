@@ -31,6 +31,7 @@ These links provide a more in-depth view of my projects and development experien
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 100+ applications to practice JavaScript code.
 - [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 - [FollowerParty](https://github.com/hernandoabella/followerparty): Celebrate Your Social Influence!
+- lines of code: fauxcode generator
 
 ## Resources 📚:
 
