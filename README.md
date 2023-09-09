@@ -36,17 +36,17 @@ These links provide a more in-depth view of my projects and development experien
 ## Resources 📚:
 
 ### JavaScript:
-- Awesome JS CheatSheet
+- Awesome JS CheatSheet: 
 - [Estructuras de datos y algoritmos en JavaScript](https://github.com/hernandoabella/dsa-in-js): DSA and Algorithms in JS. 
 - [Design Patterns in JS](https://github.com/hernandoabella/design-patterns-in-javascript): Design Patterns in JavaScript.
 - [Interview Questions](https://github.com/hernandoabella/interview-questions-js): 100+ Advanced JavaScript Interview Questions.
-- Clean code
-- Solid Principles
+- Clean Code In JS:
+- Solid Principles:
 - JavaScript Security:
-- Testing in JS
-- Js apis
-- Maintenance and Scalability in JavaScript Projects
-- javascript performance operations
+- Testing in JS:
+- JS APIs:
+- Maintenance and Scalability in JavaScript Projects:
+- Javascript Performance Operations:
 
 ### Amazon Books:
 - [JavaScript Advanced interview questions]()
