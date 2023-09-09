@@ -48,6 +48,9 @@ These links provide a more in-depth view of my projects and development experien
 - Maintenance and Scalability in JavaScript Projects
 - javascript performance operations
 
+### Amazon Books:
+- [JavaScript Advanced interview questions]()
+
 ## Follow me 😲:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="30px"/>](https://www.twitter.com/hernandoabella)
