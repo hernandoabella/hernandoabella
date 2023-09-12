@@ -35,6 +35,8 @@ These links provide a more in-depth view of my projects and development experien
 - programming cheatsheets
 
 ## Resources 📚:
+### General: 
+- Programming Terms and Definitions
 
 ### JavaScript:
 - Awesome JS CheatSheet: 
