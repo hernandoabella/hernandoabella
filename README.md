@@ -39,18 +39,18 @@ These links provide a more in-depth view of my projects and development experien
 - Programming Terms and Definitions
 
 ### JavaScript:
-- Awesome JS CheatSheet:
-- JavaScript programs for beginners 
-- [Estructuras de datos y algoritmos en JavaScript](https://github.com/hernandoabella/dsa-in-js): DSA and Algorithms in JS. 
-- [Design Patterns in JS](https://github.com/hernandoabella/design-patterns-in-javascript): Design Patterns in JavaScript.
+- Awesome JavaScript Cheat Sheet: The Cheat Sheet every JavaScript Developer needs.
+- JavaScript programs for beginners: JavaScript program collection.
+- [Estructuras de Datos y Algoritmos en JavaScript](https://github.com/hernandoabella/dsa-in-js): DSA and Algorithms in JS. 
+- [Design Patterns in JavaScript](https://github.com/hernandoabella/design-patterns-in-javascript): Design Patterns in JavaScript.
 - [Interview Questions](https://github.com/hernandoabella/interview-questions-js): 100+ Advanced JavaScript Interview Questions.
 - [Mastering Clean Code In JS](https://github.com/hernandoabella/clean-code-in-js): For code that's readable, maintainable, and robust.
 - Solid Principles:
 - JavaScript Security:
-- Testing in JS:
-- JS APIs:
+- Testing in JavaScript:
+- JavaScript APIs:
 - Maintenance and Scalability in JavaScript Projects:
-- Javascript Performance Operations:
+- JavaScript Performance Operations:
 
 ### Amazon Books:
 - [JavaScript Advanced interview questions]()
