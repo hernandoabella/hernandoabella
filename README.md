@@ -39,6 +39,7 @@ These links provide a more in-depth view of my projects and development experien
 - Programming Terms and Definitions
 
 ### JavaScript:
+- 50 JavaScript Concepts Every Developer Should Know
 - Awesome JavaScript Cheat Sheet: The Cheat Sheet every JavaScript Developer needs.
 - JavaScript programs for beginners: JavaScript program collection.
 - [Estructuras de Datos y Algoritmos en JavaScript](https://github.com/hernandoabella/dsa-in-js): DSA and Algorithms in JS. 
