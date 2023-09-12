@@ -51,6 +51,7 @@ These links provide a more in-depth view of my projects and development experien
 - JavaScript APIs:
 - Maintenance and Scalability in JavaScript Projects:
 - JavaScript Performance Operations:
+- JavaScript Recipes: Cook the best JavaScript codes.
 
 ### Amazon Books:
 - [JavaScript Advanced interview questions]()
