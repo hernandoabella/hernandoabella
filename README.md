@@ -32,6 +32,7 @@ These links provide a more in-depth view of my projects and development experien
 - [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 - [FollowerParty](https://github.com/hernandoabella/followerparty): Celebrate Your Social Influence!
 - lines of code: fauxcode generator
+- programming cheatsheets
 
 ## Resources 📚:
 
