@@ -46,7 +46,7 @@ These links provide a more in-depth view of my projects and development experien
 - [Design Patterns in JavaScript](https://github.com/hernandoabella/design-patterns-in-javascript): Design Patterns in JavaScript.
 - [Interview Questions](https://github.com/hernandoabella/interview-questions-js): 100+ Advanced JavaScript Interview Questions.
 - [Mastering Clean Code In JS](https://github.com/hernandoabella/clean-code-in-js): For code that's readable, maintainable, and robust.
-- Solid Principles:
+- [Solid Principles in JavaScript](https://github.com/hernandoabella/solid-principles-in-javascript): A Comprehensive Guide
 - JavaScript Security:
 - Testing in JavaScript:
 - JavaScript APIs:
