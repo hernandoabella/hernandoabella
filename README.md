@@ -44,7 +44,7 @@ These links provide a more in-depth view of my projects and development experien
 - [Estructuras de datos y algoritmos en JavaScript](https://github.com/hernandoabella/dsa-in-js): DSA and Algorithms in JS. 
 - [Design Patterns in JS](https://github.com/hernandoabella/design-patterns-in-javascript): Design Patterns in JavaScript.
 - [Interview Questions](https://github.com/hernandoabella/interview-questions-js): 100+ Advanced JavaScript Interview Questions.
-- [Mastering Clean Code In JS](https://github.com/hernandoabella/clean-code-in-js):
+- [Mastering Clean Code In JS](https://github.com/hernandoabella/clean-code-in-js): For code that's readable, maintainable, and robust.
 - Solid Principles:
 - JavaScript Security:
 - Testing in JS:
