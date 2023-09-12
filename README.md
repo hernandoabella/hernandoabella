@@ -39,20 +39,20 @@ These links provide a more in-depth view of my projects and development experien
 - Programming Terms and Definitions
 
 ### JavaScript:
-- 50 JavaScript Concepts Every Developer Should Know
-- Awesome JavaScript Cheat Sheet: The Cheat Sheet every JavaScript Developer needs.
-- JavaScript programs for beginners: JavaScript program collection.
-- [Estructuras de Datos y Algoritmos en JavaScript](https://github.com/hernandoabella/dsa-in-js): DSA and Algorithms in JS. 
-- [Design Patterns in JavaScript](https://github.com/hernandoabella/design-patterns-in-javascript): Design Patterns in JavaScript.
-- [Interview Questions](https://github.com/hernandoabella/interview-questions-js): 100+ Advanced JavaScript Interview Questions.
-- [Mastering Clean Code In JS](https://github.com/hernandoabella/clean-code-in-js): For code that's readable, maintainable, and robust.
-- [Solid Principles in JavaScript](https://github.com/hernandoabella/solid-principles-in-javascript): A Comprehensive Guide
-- JavaScript Security:
-- Testing in JavaScript:
-- JavaScript APIs:
-- Maintenance and Scalability in JavaScript Projects:
-- JavaScript Performance Operations:
-- JavaScript Recipes: Cook the best JavaScript codes.
+- 50 JavaScript Concepts Every Developer Should Know: Essential JavaScript concepts every developer should master.
+- Awesome JavaScript Cheat Sheet: A handy reference guide for JavaScript developers.
+- JavaScript programs for beginners: A collection of beginner-friendly JavaScript programs.
+- [Estructuras de Datos y Algoritmos en JavaScript](https://github.com/hernandoabella/dsa-in-js): Exploring data structures and algorithms in JavaScript.
+- [Design Patterns in JavaScript](https://github.com/hernandoabella/design-patterns-in-javascript): Understanding and implementing design patterns in JavaScript.
+- [Interview Questions](https://github.com/hernandoabella/interview-questions-js): Over 100 advanced JavaScript interview questions.
+- [Mastering Clean Code In JS](https://github.com/hernandoabella/clean-code-in-js): Techniques for writing clean, readable, and robust JavaScript code.
+- [Solid Principles in JavaScript](https://github.com/hernandoabella/solid-principles-in-javascript): A comprehensive guide to the SOLID principles in JavaScript.
+- JavaScript Security: Best practices for securing your JavaScript applications.
+- Testing in JavaScript: Strategies and tools for effective JavaScript testing.
+- JavaScript APIs: Exploring various JavaScript APIs for web development.
+- Maintenance and Scalability in JavaScript Projects: Tips for maintaining and scaling JavaScript projects.
+- JavaScript Performance Operations: Techniques to optimize the performance of your JavaScript code.
+- JavaScript Recipes: Cooking up the best JavaScript code snippets.
 
 ### Amazon Books:
 - [JavaScript Advanced interview questions]()
