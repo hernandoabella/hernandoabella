@@ -37,6 +37,7 @@ These links provide a more in-depth view of my projects and development experien
 ## Resources 📚:
 ### General: 
 - Programming Terms and Definitions
+- Project Guidelines
 
 ### JavaScript:
 - 50 JavaScript Concepts Every Developer Should Know: Essential JavaScript concepts every developer should master.
