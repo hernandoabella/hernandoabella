@@ -52,7 +52,7 @@ These links provide a more in-depth view of my projects and development experien
 - Testing in JavaScript: Strategies and tools for effective JavaScript testing.
 - JavaScript APIs: Exploring various JavaScript APIs for web development.
 - Maintenance and Scalability in JavaScript Projects: Tips for maintaining and scaling JavaScript projects.
-- JavaScript Performance Operations: Techniques to optimize the performance of your JavaScript code.
+- [JavaScript Performance Operations](https://github.com/hernandoabella/javascript-performance-operations): Techniques to optimize the performance of your JavaScript code.
 - JavaScript Recipes: Cooking up the best JavaScript code snippets.
 
 ### Amazon Books:
