@@ -50,7 +50,7 @@ These links provide a more in-depth view of my projects and development experien
 - [Solid Principles in JavaScript](https://github.com/hernandoabella/solid-principles-in-javascript): A comprehensive guide to the SOLID principles in JavaScript.
 - JavaScript Security: Best practices for securing your JavaScript applications.
 - Testing in JavaScript: Strategies and tools for effective JavaScript testing.
-- JavaScript APIs: Exploring various JavaScript APIs for web development.
+- [JavaScript APIs](https://github.com/hernandoabella/javascript-apis): Exploring various JavaScript APIs for web development.
 - [Maintenance and Scalability in JavaScript Projects](https://github.com/hernandoabella/maintenance-and-scalability-in-javascript-projects): Tips for maintaining and scaling JavaScript projects.
 - [JavaScript Performance Operations](https://github.com/hernandoabella/javascript-performance-operations): Techniques to optimize the performance of your JavaScript code.
 - JavaScript Recipes: Cooking up the best JavaScript code snippets.
