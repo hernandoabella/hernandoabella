@@ -48,8 +48,8 @@ These links provide a more in-depth view of my projects and development experien
 - [Interview Questions](https://github.com/hernandoabella/interview-questions-js): Over 100 advanced JavaScript interview questions.
 - [Mastering Clean Code In JS](https://github.com/hernandoabella/clean-code-in-js): Techniques for writing clean, readable, and robust JavaScript code.
 - [Solid Principles in JavaScript](https://github.com/hernandoabella/solid-principles-in-javascript): A comprehensive guide to the SOLID principles in JavaScript.
-- JavaScript Security: Best practices for securing your JavaScript applications.
-- [Testing in JavaScript](https://github.com/hernandoabella/javascript-security-handbook): Strategies and tools for effective JavaScript testing.
+- [JavaScript Security](https://github.com/hernandoabella/javascript-security-handbook): Best practices for securing your JavaScript applications.
+- [Testing in JavaScript](https://github.com/hernandoabella/testing-in-javascript): Strategies and tools for effective JavaScript testing.
 - [JavaScript APIs](https://github.com/hernandoabella/javascript-apis): Exploring various JavaScript APIs for web development.
 - [Maintenance and Scalability in JavaScript Projects](https://github.com/hernandoabella/maintenance-and-scalability-in-javascript-projects): Tips for maintaining and scaling JavaScript projects.
 - [JavaScript Performance Operations](https://github.com/hernandoabella/javascript-performance-operations): Techniques to optimize the performance of your JavaScript code.
