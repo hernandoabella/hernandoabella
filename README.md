@@ -41,6 +41,7 @@ These links provide a more in-depth view of my projects and development experien
 
 ## Resources 📚:
 ### General: 
+- Programming paradigms
 - Programming Terms and Definitions
 - Project Guidelines
 
