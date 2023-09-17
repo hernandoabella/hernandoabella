@@ -59,7 +59,7 @@ These links provide a more in-depth view of my projects and development experien
 - [JavaScript APIs](https://github.com/hernandoabella/javascript-apis): Exploring various JavaScript APIs for web development.
 - [Maintenance and Scalability in JavaScript Projects](https://github.com/hernandoabella/maintenance-and-scalability-in-javascript-projects): Tips for maintaining and scaling JavaScript projects.
 - [JavaScript Performance Operations](https://github.com/hernandoabella/javascript-performance-operations): Techniques to optimize the performance of your JavaScript code.
-- JavaScript Recipes: Cooking up the best JavaScript code snippets.
+- [JavaScript Recipes](https://github.com/hernandoabella/javascript-recipes): Cooking up the best JavaScript code snippets.
 
 ### Amazon Books:
 - [JavaScript Advanced interview questions]()
