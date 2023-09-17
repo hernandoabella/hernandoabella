@@ -49,7 +49,7 @@ These links provide a more in-depth view of my projects and development experien
 - [50 JavaScript Concepts Every Developer Should Know](https://github.com/hernandoabella/50-concepts-every-javascript-developer-should-know): Essential JavaScript concepts every developer should master.
 - Awesome JavaScript Cheat Sheet: A handy reference guide for JavaScript developers.
 - [JavaScript programs for beginners](https://github.com/hernandoabella/javascript-programs-for-beginners): A collection of beginner-friendly JavaScript programs.
-- [Estructuras de Datos y Algoritmos en JavaScript](https://github.com/hernandoabella/dsa-in-js): Exploring data structures and algorithms in JavaScript.
+- [Data Structures and Algorithms in JavaScript](https://github.com/hernandoabella/dsa-in-js): Exploring data structures and algorithms in JavaScript.
 - [Design Patterns in JavaScript](https://github.com/hernandoabella/design-patterns-in-javascript): Understanding and implementing design patterns in JavaScript.
 - [Interview Questions](https://github.com/hernandoabella/interview-questions-js): Over 100 advanced JavaScript interview questions.
 - [Mastering Clean Code In JS](https://github.com/hernandoabella/clean-code-in-js): Techniques for writing clean, readable, and robust JavaScript code.
