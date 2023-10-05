@@ -10,7 +10,7 @@ If you'd like to explore my projects in more detail and learn more about my work
 
 These links provide a more in-depth view of my projects and development experience. I hope you find something interesting!
 
-## Code and design tools I use 🛠️:
+## My ToolBox 🧰:
 
 ### Coding Tools:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
