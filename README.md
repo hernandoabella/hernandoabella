@@ -6,7 +6,7 @@ Thanks for visiting my Github profile 🐱🐙.
 If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
 
 - [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
-- [Personal Website Cooming Soon]
+- Personal Website Cooming Soon
 
 These links provide a more in-depth view of my projects and development experience. I hope you find something interesting!
 
@@ -62,7 +62,7 @@ These links provide a more in-depth view of my projects and development experien
 - [JavaScript Recipes](https://github.com/hernandoabella/javascript-recipes): Cooking up the best JavaScript code snippets.
 
 ### Amazon Books:
-- [JavaScript Advanced interview questions]()
+- JavaScript Advanced interview questions
 
 ## Follow me 😲:
 
@@ -72,7 +72,7 @@ These links provide a more in-depth view of my projects and development experien
 
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee:
 
-- [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/hernandoabella)
 
 Your support is greatly appreciated!
 
