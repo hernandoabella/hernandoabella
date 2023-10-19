@@ -1,4 +1,5 @@
 # Hello 👋 i'm Hernando!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=000000&random=false&width=435&lines=I'm+a+passionate+Full+Stack+Developer;I+love+coding+and+design!;My+fav+languages+are+Python+and+JavaScript)](https://git.io/typing-svg)
 Thanks for visiting my Github profile 🐱🐙.
 
 ## Portfolio and Personal Website 🌐
