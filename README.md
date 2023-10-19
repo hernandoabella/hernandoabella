@@ -81,5 +81,5 @@ Your support is greatly appreciated!
 
 Feel free to connect with me through these channels:
 
-- hernandoabella@gmail.com
-- [@hernandoabella](https://twitter.com/hernandoabella)
+Email: hernandoabella@gmail.com
+Twitter: [@hernandoabella](https://twitter.com/hernandoabella)
