@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B+i'm+Hernando!+;Thanks+for+visiting+my+%F0%9F%90%B1+profile.;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Full+Stack+Dev+;I+%E2%9D%A4%EF%B8%8F+Python+and+JavaScript)](https://git.io/typing-svg)
+# Hello, I'm Hernando!
+I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.
+
+<span>[<img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/>](https://www.twitter.com/hernandoabella)</span>
+<span>[<img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/3147395.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTY5NzkzMjgwMCwicSI6bnVsbCwiaWF0IjoxNjk3NzM2Njc0fQ__.0f6e370133e16f06e55796e8b39cdf55195e6d957f85984a7340f5d66ac04510" width="30px"/>](https://www.codepen.io/hernandoabella)</span>
+<span>[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-256.png" width="30px"/>](https://www.youtube.com/c/hernandoabella)</span>
 
 ## Portfolio and Personal Website 🌐
 If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
@@ -64,10 +69,6 @@ These links provide a more in-depth view of my projects and development experien
 
 ### Amazon Books:
 - JavaScript Advanced interview questions
-
-## Follow me 😲:
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="30px"/>](https://www.twitter.com/hernandoabella)
 
 ## Support Me ☕
 
