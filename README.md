@@ -1,9 +1,6 @@
-# Hello 👋 i'm Hernando!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=000000&random=false&width=435&lines=I'm+a+passionate+Full+Stack+Developer;I+love+coding+and+design!;My+fav+languages+are+Python+and+JavaScript)](https://git.io/typing-svg)
-Thanks for visiting my Github profile 🐱🐙.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B+i'm+Hernando!+;Thanks+for+visiting+my+%F0%9F%90%B1+profile.;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Full+Stack+Dev+;I+%E2%9D%A4%EF%B8%8F+Python+and+JavaScript)](https://git.io/typing-svg)
 
 ## Portfolio and Personal Website 🌐
-
 If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
 
 - [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
