@@ -44,9 +44,7 @@ These are some of the tools i use everyday for design and development.
 
 ### JavaScript:
 - [50 JavaScript Concepts Every Developer Should Know](https://github.com/hernandoabella/50-concepts-every-javascript-developer-should-know): Essential JavaScript concepts every developer should master.
-- Awesome JavaScript Cheat Sheet: A handy reference guide for JavaScript developers.
-- JavaScript For Everyone
-- [JavaScript programs for beginners](https://github.com/hernandoabella/javascript-programs-for-beginners): A collection of beginner-friendly JavaScript programs.
+- [JavaScript Programs for beginners](https://github.com/hernandoabella/javascript-programs-for-beginners): A collection of beginner-friendly JavaScript programs.
 - [Data Structures and Algorithms in JavaScript](https://github.com/hernandoabella/dsa-in-js): Exploring data structures and algorithms in JavaScript.
 - [Design Patterns in JavaScript](https://github.com/hernandoabella/design-patterns-in-javascript): Understanding and implementing design patterns in JavaScript.
 - [Interview Questions](https://github.com/hernandoabella/interview-questions-js): Over 100 advanced JavaScript interview questions.
@@ -57,12 +55,10 @@ These are some of the tools i use everyday for design and development.
 - [JavaScript APIs](https://github.com/hernandoabella/javascript-apis): Exploring various JavaScript APIs for web development.
 - [Maintenance and Scalability in JavaScript Projects](https://github.com/hernandoabella/maintenance-and-scalability-in-javascript-projects): Tips for maintaining and scaling JavaScript projects.
 - [JavaScript Performance Operations](https://github.com/hernandoabella/javascript-performance-operations): Techniques to optimize the performance of your JavaScript code.
-- [JavaScript Recipes](https://github.com/hernandoabella/javascript-recipes): Cooking up the best JavaScript code snippets.
 
 ### Amazon Books:
-- Programming Terms and Definitions [Coming Soon]
-- JavaScript Advanced interview questions
-- Python Advanced interview questions
+- [120 Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV/ref=sr_1_4?crid=T41JH7R934BD&keywords=javascript+interview+questions&qid=1698210385&sprefix=javascript+interview+questions%2Caps%2C125&sr=8-4)
+- [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR/ref=emc_b_5_i)
 
 ## Support Me ☕
 
