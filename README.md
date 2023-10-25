@@ -9,7 +9,7 @@ I'm a dynamic Full-Stack engineer with a passion for crafting exceptional soluti
 If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
 
 - [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
-- Personal Website Cooming Soon
+- Website Cooming Soon
 
 ## Side projects:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 100+ applications to practice JavaScript code.
