@@ -11,44 +11,35 @@ If you'd like to explore my projects in more detail and learn more about my work
 - [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
 - Personal Website Cooming Soon
 
-These links provide a more in-depth view of my projects and development experience. I hope you find something interesting!
+## Side projects:
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 100+ applications to practice JavaScript code.
+- [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 
 ## My ToolBox 🧰:
-### Front-End:
+These are some of the tools i use everyday for design and development.
+
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/></span>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px"/></span> 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/></span>
-
-### Back-End:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="30px"/></span>
-
-### Development:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/></span>
-
-### Design:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30px"/></span>
-
-## Side projects:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 100+ applications to practice JavaScript code.
-- [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 
 ## Resources 📚:
+
 ### General: 
 - [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
-- Programming Terms and Definitions
 - Project Guidelines
 
 ### JavaScript:
@@ -69,7 +60,9 @@ These links provide a more in-depth view of my projects and development experien
 - [JavaScript Recipes](https://github.com/hernandoabella/javascript-recipes): Cooking up the best JavaScript code snippets.
 
 ### Amazon Books:
+- Programming Terms and Definitions [Coming Soon]
 - JavaScript Advanced interview questions
+- Python Advanced interview questions
 
 ## Support Me ☕
 
