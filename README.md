@@ -70,7 +70,4 @@ Your support is greatly appreciated!
 
 ## Contact Me
 
-Feel free to connect with me through these channels:
-
-Email: hernandoabella@gmail.com <br/>
-X: [@hernandoabella](https://twitter.com/hernandoabella)
+hernandoabella@gmail.com
