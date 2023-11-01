@@ -12,7 +12,7 @@ If you'd like to explore my projects in more detail and learn more about my work
 - Website Cooming Soon
 
 ## Side projects:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 100+ applications to practice JavaScript code.
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
 - [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 
 ## My ToolBox 🧰:
