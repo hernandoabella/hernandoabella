@@ -12,6 +12,9 @@ If you'd like to explore my projects in more detail and learn more about my work
 - Website Cooming Soon
 
 ## Side projects:
+### Tools
+- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your awesome products
+
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
 - [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 
