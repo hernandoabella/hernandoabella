@@ -47,6 +47,7 @@ These are some of the tools i use everyday for design and development.
 
 ### JavaScript:
 - [50 JavaScript Concepts Every Developer Should Know](https://github.com/hernandoabella/50-concepts-every-javascript-developer-should-know): Essential JavaScript concepts every developer should master.
+- 250 + Killer JavaScript One-liners
 - [JavaScript Programs for beginners](https://github.com/hernandoabella/javascript-programs-for-beginners): A collection of beginner-friendly JavaScript programs.
 - [Data Structures and Algorithms in JavaScript](https://github.com/hernandoabella/dsa-in-js): Exploring data structures and algorithms in JavaScript.
 - [Design Patterns in JavaScript](https://github.com/hernandoabella/design-patterns-in-javascript): Understanding and implementing design patterns in JavaScript.
