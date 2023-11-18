@@ -62,7 +62,12 @@ These are some of the tools i use everyday for design and development.
 
 ### Amazon Books:
 - [120 Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV/ref=sr_1_4?crid=T41JH7R934BD&keywords=javascript+interview+questions&qid=1698210385&sprefix=javascript+interview+questions%2Caps%2C125&sr=8-4)
-- [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR/ref=emc_b_5_i)
+- [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
+- [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
+
+
+
+
 
 ## Support Me ☕
 
