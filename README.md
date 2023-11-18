@@ -64,10 +64,8 @@ These are some of the tools i use everyday for design and development.
 - [120 Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV/ref=sr_1_4?crid=T41JH7R934BD&keywords=javascript+interview+questions&qid=1698210385&sprefix=javascript+interview+questions%2Caps%2C125&sr=8-4)
 - [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
-
-
-
-
+- [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
+- [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
 
 ## Support Me ☕
 
