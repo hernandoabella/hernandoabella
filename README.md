@@ -1,7 +1,9 @@
-# Hello, I'm Hernando!
-I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.
-
-<span>[<img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/>](https://www.twitter.com/hernandoabella)</span>
+<div align="center"><h1>Hello 👋, I'm Hernando!</h1></div>
+<div align="center">I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.</div>
+<br>
+<p align="center" width="100%">
+  <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
+</p>
 
 ## Portfolio and Personal Website 🌐
 If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
@@ -65,7 +67,6 @@ These are some of the tools i use everyday for design and development.
 ## Support Me ☕
 
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee:
-
 - [Buy Me a Coffee](https://www.buymeacoffee.com/hernandoabella)
 
 Your support is greatly appreciated!
