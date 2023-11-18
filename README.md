@@ -2,7 +2,6 @@
 I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.
 
 <span>[<img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/>](https://www.twitter.com/hernandoabella)</span>
-<span>[<img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/3147395.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTY5NzkzMjgwMCwicSI6bnVsbCwiaWF0IjoxNjk3NzM2Njc0fQ__.0f6e370133e16f06e55796e8b39cdf55195e6d957f85984a7340f5d66ac04510" width="30px"/>](https://www.codepen.io/hernandoabella)</span>
 <span>[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-256.png" width="30px"/>](https://www.youtube.com/c/hernandoabella)</span>
 
 ## Portfolio and Personal Website 🌐
