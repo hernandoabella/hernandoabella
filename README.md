@@ -41,11 +41,11 @@ These are some of the tools i use everyday for design and development.
 
 ## Resources 📚:
 
-### General: 
+### General Programming resources: 
 - [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
 - Project Guidelines
 
-### JavaScript:
+### Top JavaScript resources:
 - [50 JavaScript Concepts Every Developer Should Know](https://github.com/hernandoabella/50-concepts-every-javascript-developer-should-know): Essential JavaScript concepts every developer should master.
 - 250 + Killer JavaScript One-liners
 - [JavaScript Programs for beginners](https://github.com/hernandoabella/javascript-programs-for-beginners): A collection of beginner-friendly JavaScript programs.
