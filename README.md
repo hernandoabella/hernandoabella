@@ -9,7 +9,7 @@
 If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
 
 - [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
-- Website Cooming Soon
+- Website Coming Soon
 
 ## Side projects:
 ### Tools:
@@ -19,7 +19,7 @@ If you'd like to explore my projects in more detail and learn more about my work
 - [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 
 ## My ToolBox 🧰:
-These are some of the tools i use everyday for design and development.
+These are some of the tools I use every day for design and development.
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/></span>
