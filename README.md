@@ -5,22 +5,6 @@
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
 </p>
 
-## Portfolio and Personal Website 🌐
-If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
-
-- [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
-- Website Coming Soon
-
-## Side projects:
-### Tools:
-- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your awesome products
-### Collections:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
-- [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
-
-## My ToolBox 🧰:
-These are some of the tools I use every day for design and development.
-
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/></span>
@@ -38,6 +22,21 @@ These are some of the tools I use every day for design and development.
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
+
+## Portfolio and Personal Website 🌐
+If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
+
+- [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
+- Website Coming Soon
+
+## Side projects:
+### Tools:
+- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your awesome products
+### Collections:
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
+- [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
+
+
 
 ## Resources 📚:
 
