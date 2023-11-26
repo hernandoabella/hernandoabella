@@ -23,11 +23,8 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
 
-## Portfolio and Personal Website 🌐
-If you'd like to explore my projects in more detail and learn more about my work, I invite you to visit my online portfolio or my personal website:
-
 - [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
-- Website Coming Soon
+-  🌐 Website Coming Soon
 
 ## Side projects:
 ### Tools:
