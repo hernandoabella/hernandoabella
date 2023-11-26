@@ -61,7 +61,8 @@ These are some of the tools I use every day for design and development.
 - [JavaScript Performance Operations](https://github.com/hernandoabella/javascript-performance-operations): Techniques to optimize the performance of your JavaScript code.
 
 ## Store:
-### Amazon Books:
+### Books:
+- [Advanced Design Patterns in JavaScript](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5)
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
 - [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
@@ -69,7 +70,8 @@ These are some of the tools I use every day for design and development.
 - [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
 
 
-### Gumroad Products:
+### Digital products:
+- [Advanced Design Patterns in JavaScript](https://hernandoabella.gumroad.com/l/berze)
 - [250+ Killer JavaScript One-liners](https://hernandoabella.gumroad.com/l/cjjatz)
 - [50 JavaScript Concepts Every Developer Should Know](https://hernandoabella.gumroad.com/l/poeqat)
 - [Programming Terms and Definitions](https://hernandoabella.gumroad.com/l/bstxd)
@@ -77,12 +79,9 @@ These are some of the tools I use every day for design and development.
 - [100+ Advanced JavaScript Interview Questions](https://hernandoabella.gumroad.com/l/gcanm)
 
 ## Support Me ☕
-
-If you find my work helpful or just want to show your appreciation, you can buy me a coffee:
+If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
 - [Buy Me a Coffee](https://www.buymeacoffee.com/hernandoabella)
 
-Your support is greatly appreciated!
-
 ## Contact Me
-
 hernandoabella@gmail.com
++573043932597
