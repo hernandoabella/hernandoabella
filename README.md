@@ -1,9 +1,14 @@
 <div align="center"><h1>Hello 👋, I'm Hernando!</h1></div>
 <div align="center">I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.</div>
-<br>
+
+
+## Connect with me ⭐:
+
 <p align="center" width="100%">
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
 </p>
+
+## Favorite tools ⭐:
 
 <div align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
@@ -27,11 +32,10 @@
 
 ## Portfolio, Website & Blog:
 
-
 | [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| 📝 Blog |
 | -- | -- | -- |
 
-## Side projects:
+## Side projects 🏗️:
 ### Tools:
 - [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your awesome products.
 ### Collections:
@@ -61,7 +65,7 @@
 - [Maintenance and Scalability in JavaScript Projects](https://github.com/hernandoabella/maintenance-and-scalability-in-javascript-projects): Tips for maintaining and scaling JavaScript projects.
 - [JavaScript Performance Operations](https://github.com/hernandoabella/javascript-performance-operations): Techniques to optimize the performance of your JavaScript code.
 
-## Store:
+## Store 🏪:
 ### Books:
 - [Advanced Design Patterns in JavaScript](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5)
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
@@ -83,6 +87,6 @@
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
 - [Buy Me a Coffee](https://www.buymeacoffee.com/hernandoabella)
 
-## Contact Me
-hernandoabella@gmail.com <br/>
-+573043932597
+## Contact Me 📞
+- hernandoabella@gmail.com <br/>
+- +573043932597
