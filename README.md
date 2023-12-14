@@ -2,7 +2,7 @@
 <div align="center">I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.</div>
 
 
-## Connect with me ⭐:
+## Connect with me 🤝🏻:
 
 <p align="center" width="100%">
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
