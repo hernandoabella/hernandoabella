@@ -1,7 +1,6 @@
 <div align="center"><h1>Hello 👋, I'm Hernando!</h1></div>
 <div align="center">I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.</div>
 
-
 ## Connect with me 🤝🏻:
 
 <p align="center" width="100%">
@@ -41,8 +40,6 @@
 ### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
 - [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
-
-
 
 ## Resources 📚:
 
