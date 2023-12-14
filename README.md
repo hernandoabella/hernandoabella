@@ -5,7 +5,6 @@
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
 </p>
 
-<div align="center"><h3> Favorite tools ⭐</h3></div>
 <div align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/></span>
@@ -26,9 +25,11 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
 </div>
 
-## Portfolio and website:
-- 🤵 [Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/)
-- 🌐 [Website](https://www.hernandoabella.com)
+## Portfolio, Website & Blog:
+
+
+| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| 📝 Blog |
+| -- | -- | -- |
 
 ## Side projects:
 ### Tools:
