@@ -9,8 +9,8 @@
 </p>
 
 
-| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| 📝 Blog | 🏆 Top Resources | 
-| -- | -- | -- | -- |
+| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| 📝 Blog | 🏆 Top Resources | 📹 Videos | 👽 Contact |
+| -- | -- | -- | -- | -- | -- |
 
 
 <div align="center">
