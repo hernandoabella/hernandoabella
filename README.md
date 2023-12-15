@@ -1,14 +1,21 @@
 <div align="center"><h1>Hello 👋, I'm Hernando!</h1></div>
 <div align="center">I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.</div>
 
-## Connect with me 🤝🏻:
-
+<div align="center">
+  <h3>Connect with me 🤝🏻</h3>
+</div>
 <p align="center" width="100%">
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
 </p>
 
-## Favorite tools ⭐:
 
+| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| 📝 Blog | 🏆 Top Resources | 
+| -- | -- | -- | -- |
+
+
+<div align="center">
+  <h3>Favorite tools ⭐</h3>
+</div>
 <div align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/></span>
@@ -29,10 +36,12 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
 </div>
 
-## Portfolio, Website & Blog:
+<div align="center">
+  
+</div>
 
-| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| 📝 Blog |
-| -- | -- | -- |
+
+
 
 ## Side projects 🏗️:
 ### Tools:
