@@ -41,8 +41,7 @@
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
 - [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
 
-## Store 🏪:
-### Books:
+## Best Seller Books: 🏪:
 - [Advanced Design Patterns in JavaScript](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5)
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
 - [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
@@ -50,13 +49,6 @@
 - [120 Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV)
 - [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
 
-### Digital products:
-- [Advanced Design Patterns in JavaScript](https://hernandoabella.gumroad.com/l/berze)
-- [250+ Killer JavaScript One-liners](https://hernandoabella.gumroad.com/l/cjjatz)
-- [50 JavaScript Concepts Every Developer Should Know](https://hernandoabella.gumroad.com/l/poeqat)
-- [Programming Terms and Definitions](https://hernandoabella.gumroad.com/l/bstxd)
-- [100+ Advanced Python Interview Questions](https://hernandoabella.gumroad.com/l/xzghr)
-- [100+ Advanced JavaScript Interview Questions](https://hernandoabella.gumroad.com/l/gcanm)
 
 ## Support Me ☕
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
