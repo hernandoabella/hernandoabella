@@ -8,7 +8,7 @@
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
 </p>
 
-| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| [📝 Blog](https://medium.com/@hernandoabella) | 🏆 Top Resources | [📹 Videos](https://youtube.com/c/hernandoabella) | 👽 Contact |
+| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| [📝 Blog](https://medium.com/@hernandoabella) | [🏆 Top Resources](https://hernandoabella.com/resources/) | [📹 Videos](https://youtube.com/c/hernandoabella) | 👽 Contact |
 | -- | -- | -- | -- | -- | -- |
 
 <div align="center">
