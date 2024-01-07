@@ -34,10 +34,10 @@
 
 ## Side projects 🏗️:
 ### Tools:
-- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your awesome products.
+- [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your awesome products.
 ### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
-- [AsteriskPatterns](https://github.com/hernandoabella/asteriskpatterns): Collection of asterisk patterns in JavaScript.
+- [ASTIK](https://github.com/hernandoabella/astik): Collection of asterisk patterns in JavaScript.
 
 ## Best Seller Books: 🏪:
 
