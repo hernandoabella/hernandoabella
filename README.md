@@ -1,4 +1,4 @@
-ki<div align="center"><h1>Hello there 👋, I'm Hernando!</h1></div>
+<div align="center"><h1>Hello there 👋, I'm Hernando!</h1></div>
 <div align="center">I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.</div>
 
 <div align="center">
@@ -8,7 +8,7 @@ ki<div align="center"><h1>Hello there 👋, I'm Hernando!</h1></div>
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
 </p>
 
-| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| [📝 Blog](https://medium.com/@hernandoabella) | [🏆 Top Resources](https://hernandoabella.com/resources/) | [📹 Videos](https://youtube.com/c/hernandoabella) | [👽 Contact](https://tel:+573043932597) |
+| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| [📝 Blog](https://medium.com/@hernandoabella) | [🏆 Top Resources](https://hernandoabella.com/resources/) | [📹 Videos](https://youtube.com/c/hernandoabella) | [👽 Contact](mailto:hernandoabella@gmail.com) |
 | -- | -- | -- | -- | -- | -- |
 
 <div align="center">
