@@ -8,8 +8,11 @@
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-64.png" width="30px"/></a>
 </p>
 
-| [🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) | [🌐 Website](https://www.hernandoabella.com)| [📝 Blog](https://medium.com/@hernandoabella) | [🏆 Top Resources](https://hernandoabella.com/resources/) | [📹 Videos](https://youtube.com/c/hernandoabella) | [👽 Contact](mailto:hernandoabella@gmail.com) |
-| -- | -- | -- | -- | -- | -- |
+[🤵 Portfolio](https://portfolio-ek7lh6cli-hernandoabella.vercel.app/) <br/>
+[🌐 Website](https://www.hernandoabella.com) <br/>
+[📝 Blog](https://medium.com/@hernandoabella) <br/>
+[🏆 Top Resources](https://hernandoabella.com/resources/) <br/>
+[📹 Videos](https://youtube.com/c/hernandoabella)
 
 <div align="center">
   <h3>Favorite tools ⭐</h3>
