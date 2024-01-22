@@ -34,7 +34,7 @@
 
 ## Side projects 🏗️:
 ### Tools:
-- [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your awesome products.
+- [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
 ### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
 - [ASTIK](https://github.com/hernandoabella/astik): Collection of asterisk patterns in JavaScript.
