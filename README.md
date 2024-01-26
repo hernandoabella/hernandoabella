@@ -35,6 +35,10 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 </div>
 
+<br/>
+
+[![Hernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
+
 ## Side projects 🏗️:
 ### Tools:
 - [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
