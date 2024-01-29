@@ -41,7 +41,7 @@
 - [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
 ### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
-- [ASTIK](https://github.com/hernandoabella/astik): Collection of asterisk patterns in JavaScript.
+- [ASTERISK](https://github.com/hernandoabella/asterisk): Collection of asterisk patterns in JavaScript.
 
 ## Best Seller Books: 🏪:
 
