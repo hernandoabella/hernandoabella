@@ -45,7 +45,7 @@
 
 ## Best Seller Books: 🏪:
 
-- Rust for beginners
+- [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
 - [JavaScript for beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
