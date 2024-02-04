@@ -43,6 +43,7 @@
 ## Side projects 🏗️:
 ### Tools:
 - [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
+- Delete duplicate emails
 ### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Collection of asterisk patterns in JavaScript.
