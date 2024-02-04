@@ -46,8 +46,9 @@
 - Delete duplicate emails
 - Code Lines: Convert your snippet into a fancy illustration
 ### Collections:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 300+ applications to practice JavaScript code.
-- [ASTERISK](https://github.com/hernandoabella/asterisk): Top pattern program collection.
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code.
+- [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
+
 
 ## Best Seller Books: 🏪:
 
