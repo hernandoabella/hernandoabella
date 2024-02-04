@@ -45,8 +45,8 @@
 - [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
 - Delete duplicate emails
 ### Collections:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 200+ applications to practice JavaScript code.
-- [ASTERISK](https://github.com/hernandoabella/asterisk): Collection of asterisk patterns in JavaScript.
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 300+ applications to practice JavaScript code.
+- [ASTERISK](https://github.com/hernandoabella/asterisk): Top pattern program collection.
 
 ## Best Seller Books: 🏪:
 
@@ -60,7 +60,6 @@
 - [120 Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV)
 - [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
-
 
 ## Support Me ☕
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
