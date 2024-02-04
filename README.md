@@ -34,8 +34,10 @@
 
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hernandoabella)](https://git.io/streak-stats)
+
 [![Hernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
 
 ## Side projects 🏗️:
