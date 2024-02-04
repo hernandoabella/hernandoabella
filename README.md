@@ -44,6 +44,7 @@
 ### Tools:
 - [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
 - Delete duplicate emails
+- Code Lines: Convert your snippet into a fancy illustration
 ### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Collection of 300+ applications to practice JavaScript code.
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Top pattern program collection.
