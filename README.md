@@ -42,16 +42,17 @@
 
 ## Side projects 🏗️:
 ### Tools:
-- [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
-- Delete duplicate emails
+- [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator
+- Delete duplicate emails: Delete a list of duplicate emails
 - Code Lines: Convert your snippet into a fancy illustration
 ### Collections:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code.
-- [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code
+- [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection
 
 
 ## Best Seller Books: 🏪:
-
+- 150+ JavaScript Pattern Programs
+- 150+ C Pattern Programs
 - [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
 - [JavaScript for beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
