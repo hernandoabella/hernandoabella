@@ -57,6 +57,7 @@
 - [JavaScript for beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
+- 50 C# Concepts Every Developer Should Know
 - [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
 - [50 Java Concepts Every Developer Should Know](https://www.amazon.com/Java-Concepts-Every-Developer-Should-ebook/dp/B0CPPZ1BVM)
 - [Advanced Design Patterns in JavaScript](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5)
