@@ -51,8 +51,8 @@
 
 
 ## Best Seller Books: 🏪:
-- 150+ JavaScript Pattern Programs
-- 150+ C Pattern Programs
+- [150+ JavaScript Pattern Programs](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28)
+- [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
 - [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
 - [JavaScript for beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
