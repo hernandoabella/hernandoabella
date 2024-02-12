@@ -53,11 +53,14 @@
 ## Best Seller Books: 🏪:
 - [150+ JavaScript Pattern Programs](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28)
 - [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
+- 150 Python Pattern Programs
 - [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
 - [JavaScript for beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
+- 200+ Python Programs For Beginners
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
-- 50 C# Concepts Every Developer Should Know
+- 50 Python Concepts Every Developer Show Know
+- [50 C# Concepts Every Developer Should Know](https://www.amazon.com/dp/B0CVFYGK2B)
 - [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
 - [50 Java Concepts Every Developer Should Know](https://www.amazon.com/Java-Concepts-Every-Developer-Should-ebook/dp/B0CPPZ1BVM)
 - [Advanced Design Patterns in JavaScript](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5)
