@@ -42,7 +42,7 @@
 
 ## Side projects 🏗️:
 ### Tools:
-- [TCGEN](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator
+- [TCG](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator
 - Delete duplicate emails: Delete a list of duplicate emails
 - Code Lines: Convert your snippet into a fancy illustration
 ### Collections:
