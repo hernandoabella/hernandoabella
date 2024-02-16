@@ -51,6 +51,7 @@
 
 
 ## Best Seller Books: 🏪:
+- Algorithms and data structures in Python
 - [150+ JavaScript Pattern Programs](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28)
 - [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
 - 150 Python Pattern Programs
