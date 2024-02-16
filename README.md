@@ -51,9 +51,11 @@
 
 
 ## Best Seller Books: 🏪:
-javascript cookbook
-typescript cookbook
-python cookbook
+- javascript cookbook
+- typescript cookbook
+- python cookbook
+- JavaScript Katas for beginners
+- Python Katas for beginners
 - Algorithms and Data Structures in Python
 - [150+ JavaScript Pattern Programs](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28)
 - [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
