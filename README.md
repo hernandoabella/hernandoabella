@@ -51,9 +51,9 @@
 
 
 ## Best Seller Books: 🏪:
-- javascript cookbook
-- typescript cookbook
-- python cookbook
+- Javascript cookbook
+- Typescript cookbook
+- Python cookbook
 - JavaScript Katas for beginners
 - Python Katas for beginners
 - Algorithms and Data Structures in Python
