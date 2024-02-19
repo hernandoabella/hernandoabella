@@ -54,6 +54,7 @@
 - Javascript cookbook
 - Typescript cookbook
 - Python cookbook
+- Java Katas for beginners
 - JavaScript Katas for beginners
 - Python Katas for beginners
 - Algorithms and Data Structures in Python
