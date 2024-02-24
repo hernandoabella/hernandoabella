@@ -34,6 +34,7 @@
 
 <br/>
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=hernandoabella)](https://git.io/streak-stats)
 
 [![Hernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
@@ -52,27 +53,27 @@
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection
 
-
 ## Books: 🏪:
 ### CookBook 
-- Javascript cookbook [coominng soon]
+- [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
 - Typescript cookbook [coominng soon]
 - Python cookbook [coominng soon]
-### Katas 
+### Katas For Beginners 
 - Java Katas for beginners [coominng soon]
 - JavaScript Katas for beginners [coominng soon]
 - Python Katas for beginners [coominng soon]
 ### Algorithms and Data Structures
-- Algorithms and Data Structures in Python [coominng soon]
+- [Algorithms and Data Structures in Python](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CW65JBLW)
 ### Pattern Programs
 - [150+ JavaScript Pattern Programs](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28)
 - [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
-- 150 Python Pattern Programs 
+- [150 Python Pattern Programs](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CVNG3PRV) 
 ### For Beginners
 - [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
 - [JavaScript for beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
+### Programs For Beginners
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
-- 200+ Python Programs For Beginners
+- [200+ Python Programs For Beginners](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CVLQTKHG)
 ### Special Books 
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
 ### 50 Concepts Every Developer Show Know
@@ -89,8 +90,8 @@
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
 
 ## Support Me ☕
-If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
-- [PayPal](https://ko-fi.com/hernandoabella)
+If you find my work helpful or just want to show your appreciation, you can buy dḍḍ a coffee. Your support is greatly appreciated!
+- [PayPal](https://paypal.me/haoficial)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/hernandoabella)
 - [Ko-Fi](https://ko-fi.com/hernandoabella)
 
