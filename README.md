@@ -42,7 +42,33 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
 
 ## Guides and references
+- Programming Paradigms
 - Clean Code
+- Design Principles
+- Design Patterns
+- Oriented Object Programming
+- Algorithms and DSA
+- Version Control
+- Testing
+- Databases
+- Soft Skills
+- Networking
+- Security
+- Concurrency and parallelism
+- Software Development Life Cycle
+- Containerization and Orchestration
+- CI/CD
+- Cloud Computing
+- Game Development
+- UI/UX
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- C
+- C++
+- C#
 
 ## Side projects 🏗️:
 ### Tools:
