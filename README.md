@@ -53,35 +53,46 @@
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection
 
 
-## Best Seller Books: 🏪:
-- Javascript cookbook
-- Typescript cookbook
-- Python cookbook
-- Java Katas for beginners
-- JavaScript Katas for beginners
-- Python Katas for beginners
-- Algorithms and Data Structures in Python
+## Books: 🏪:
+### CookBook 
+- Javascript cookbook [coominng soon]
+- Typescript cookbook [coominng soon]
+- Python cookbook [coominng soon]
+### Katas 
+- Java Katas for beginners [coominng soon]
+- JavaScript Katas for beginners [coominng soon]
+- Python Katas for beginners [coominng soon]
+### Algorithms and Data Structures
+- Algorithms and Data Structures in Python [coominng soon]
+### Pattern Programs
 - [150+ JavaScript Pattern Programs](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28)
 - [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
-- 150 Python Pattern Programs
+- 150 Python Pattern Programs 
+### For Beginners
 - [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
 - [JavaScript for beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
 - 200+ Python Programs For Beginners
+### Special Books 
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
-- 50 Python Concepts Every Developer Show Know
+### 50 Concepts Every Developer Show Know
+- 50 Python Concepts Every Developer Show Know [coominng soon]
 - [50 C# Concepts Every Developer Should Know](https://www.amazon.com/dp/B0CVFYGK2B)
 - [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
 - [50 Java Concepts Every Developer Should Know](https://www.amazon.com/Java-Concepts-Every-Developer-Should-ebook/dp/B0CPPZ1BVM)
+### Advanced Design Patterns
 - [Advanced Design Patterns in JavaScript](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5)
+### 120 Advanced JavaScript Interview Questions
 - [120 Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV)
 - [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
+### Reference Books
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
 
 ## Support Me ☕
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
+- [PayPal](https://ko-fi.com/hernandoabella)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/hernandoabella)
-- [Support me on Ko-Fi](https://ko-fi.com/hernandoabella)
+- [Ko-Fi](https://ko-fi.com/hernandoabella)
 
 ## Contact Me 📞
 - www.hernandoabella.com/
