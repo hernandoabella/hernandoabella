@@ -80,7 +80,8 @@
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection
 
 ## Books: 🏪:
-### CookBook 
+### CookBook
+- SQL Cook Book
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
 - Typescript cookbook [coominng soon]
 - Python cookbook [coominng soon]
