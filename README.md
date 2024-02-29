@@ -105,6 +105,8 @@
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
 ### 50 Concepts Every Developer Show Know
 - 50 Python Concepts Every Developer Show Know [coominng soon]
+- 50 C Concepts Every Developer Should Know]
+- 50 C++ Concepts Every Developer Should Know]
 - [50 C# Concepts Every Developer Should Know](https://www.amazon.com/dp/B0CVFYGK2B)
 - [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
 - [50 Java Concepts Every Developer Should Know](https://www.amazon.com/Java-Concepts-Every-Developer-Should-ebook/dp/B0CPPZ1BVM)
