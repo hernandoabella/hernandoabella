@@ -81,7 +81,7 @@
 
 ## Books: 🏪:
 ### CookBook
-- SQL Cook Book
+- [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
 - Typescript cookbook [coominng soon]
 - Python cookbook [coominng soon]
