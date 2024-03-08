@@ -110,9 +110,9 @@
 - [50 C# Concepts Every Developer Should Know](https://www.amazon.com/dp/B0CVFYGK2B)
 - [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
 - [50 Java Concepts Every Developer Should Know](https://www.amazon.com/Java-Concepts-Every-Developer-Should-ebook/dp/B0CPPZ1BVM)
-- 50 Go Concetps Every Developer Should Know
-- 50 Kotlin
-- 50 Ruby 
+- 50 Go Concepts Every Developer Should Know
+- 50 Kotlin Concepts Every Developer Should Know
+- 50 Ruby Concepts Every Developer Should Know
 ### Advanced Design Patterns
 - [Advanced Design Patterns in JavaScript](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5)
 ### 120 Advanced JavaScript Interview Questions
