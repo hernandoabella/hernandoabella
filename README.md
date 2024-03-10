@@ -118,8 +118,9 @@
 ### 120 Advanced JavaScript Interview Questions
 - [120 Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV)
 - [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
-### Reference Books
+### 🏆 Let's Grow Up Together
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
+- [50 Ways to Make Money as a Dev](https://www.amazon.com/Ways-Make-Money-Dev-developer/dp/B0CXM1JDKL)
 
 ## Support Me ☕
 If you find my work helpful or just want to show your appreciation, you can buy dḍḍ a coffee. Your support is greatly appreciated!
