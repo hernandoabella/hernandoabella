@@ -43,7 +43,7 @@
 
 ## Guides and references
 - Programming Paradigms
-- Clean Code
+- [Clean Code](https://github.com/hernandoabella/clean-code)
 - Design Principles
 - Design Patterns
 - Oriented Object Programming
