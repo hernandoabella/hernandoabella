@@ -63,12 +63,14 @@
 - UI/UX
 - HTML
 - CSS
+### Programming Languages:
 - JavaScript
 - Java
 - Python
 - C
 - C++
 - C#
+- Ruby
 
 ## Side projects 🏗️:
 ### Tools:
