@@ -1,5 +1,5 @@
 <div align="center"><h1>Hello there 👋, I'm Hernando!</h1></div>
-<div align="center">I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions.</div>
+<div align="center">I'm a dynamic Full-Stack engineer with a passion for crafting exceptional solutions. I love helping everyone interested in learning new technologies in the easiest way to take their interest to the next level.</div>
 <br/>
 <p align="center" width="100%">
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
