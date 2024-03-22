@@ -51,7 +51,7 @@
 - Version Control
 - Testing
 - Databases
-- Soft Skills
+- [Soft Skills](https://github.com/hernandoabella/soft-skills)
 - Networking
 - Security
 - Concurrency and parallelism
