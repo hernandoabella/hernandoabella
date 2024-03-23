@@ -64,11 +64,11 @@
 - HTML
 - CSS
 ### Programming Languages:
-- JavaScript
-- Java
-- Python
-- C
-- C++
+- [JavaScript]
+- [Java]
+- [Python]
+- [C](https://github.com/hernandoabella/c)
+- [C++](https://github.com/hernandoabella/cpp)
 - [C#](https://github.com/hernandoabella/c-sharp)
 - [Ruby](https://github.com/hernandoabella/ruby)
 
