@@ -40,7 +40,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
 
 ## Guides and references 📙:
-- Programming Paradigms
+- [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
 - [Clean Code](https://github.com/hernandoabella/clean-code)
 - [Design Principles](https://github.com/hernandoabella/design-principles)
 - [Design Patterns](https://github.com/hernandoabella/design-patterns)
