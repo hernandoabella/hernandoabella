@@ -69,8 +69,8 @@
 - Python
 - C
 - C++
-- C#
-- Ruby
+- [C#](https://github.com/hernandoabella/c-sharp)
+- [Ruby](https://github.com/hernandoabella/ruby)
 
 ## Side projects 🏗️:
 ### Tools:
