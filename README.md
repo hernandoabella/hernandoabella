@@ -64,9 +64,9 @@
 - HTML
 - CSS
 ### Programming Languages:
-- [JavaScript]
-- [Java]
-- [Python]
+- [JavaScript](https://github.com/hernandoabella/javascript)
+- [Java](https://github.com/hernandoabella/java)
+- [Python](https://github.com/hernandoabella/python)
 - [C](https://github.com/hernandoabella/c)
 - [C++](https://github.com/hernandoabella/cpp)
 - [C#](https://github.com/hernandoabella/c-sharp)
