@@ -31,9 +31,7 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"/></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 </div>
-
 <br/>
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hernandoabella)](https://git.io/streak-stats)
 
@@ -44,25 +42,25 @@
 ## Guides and references 📙:
 - Programming Paradigms
 - [Clean Code](https://github.com/hernandoabella/clean-code)
-- Design Principles
-- Design Patterns
-- Oriented Object Programming
-- Algorithms and DSA
-- Version Control
-- Testing
-- Databases
+- [Design Principles](https://github.com/hernandoabella/design-principles)
+- [Design Patterns](https://github.com/hernandoabella/design-patterns)
+- [Object Oriented Programming](https://github.com/hernandoabella/object-oriented-programming)
+- [Data Structures and Algorithms](https://github.com/hernandoabella/data-structures-and-algorithms)
+- [Version Control](https://github.com/version-control)
+- [Testing](https://github.com/hernandoabella/testing)
+- [Databases](https://github.com/databases)
 - [Soft Skills](https://github.com/hernandoabella/soft-skills)
-- Networking
-- Security
-- Concurrency and parallelism
-- Software Development Life Cycle
-- Containerization and Orchestration
-- CI/CD
-- Cloud Computing
-- Game Development
-- UI/UX
-- HTML
-- CSS
+- [Networking](https://github.com/hernandoabella/networking)
+- [Security](https://github.com/hernandoabella/security)
+- [Concurrency and parallelism](https://github.com/hernandoabella/concurrency-and-parallelism)
+- [Software Development Life Cycle](https://github.com/hernandoabella/software-development-life-cycle)
+- [Containerization and Orchestration](https://github.com/hernandoabella/containerization-and-orchestration)
+- [CI/CD](https://github.com/hernandoabella/ci-cd)
+- [Cloud Computing](https://github.com/hernandoabella/cloud-computing)
+- [Game Development](https://github.com/hernandoabella/game-development)
+- [UI/UX](https://github.com/hernandoabella/ui-ux)
+- [HTML](https://github.com/hernandoabella/html)
+- [CSS](https://github.com/hernandoabella/css)
 ### Programming Languages:
 - [JavaScript](https://github.com/hernandoabella/javascript)
 - [Java](https://github.com/hernandoabella/java)
