@@ -12,7 +12,8 @@
 [🌐 Website](https://www.hernandoabella.com) <br/>
 [📝 Blog](https://medium.com/@hernandoabella) <br/>
 [🏆 Top Resources](https://hernandoabella.com/resources/) <br/>
-[📹 Videos](https://youtube.com/c/hernandoabella)
+[📹 Videos](https://youtube.com/c/hernandoabella) <br/>
+[📰 Newsletter](https://beat-byte-publishing.com/) 
 
 <div align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
@@ -41,7 +42,7 @@
 
 ## Guides and references 📙:
 - [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
-- [Clean Code](https://github.com/hernandoabella/clean-code)
+- [🧹 Clean Code](https://github.com/hernandoabella/clean-code)
 - [Design Principles](https://github.com/hernandoabella/design-principles)
 - [Design Patterns](https://github.com/hernandoabella/design-patterns)
 - [Object Oriented Programming](https://github.com/hernandoabella/object-oriented-programming)
@@ -101,7 +102,14 @@
 ### Programs For Beginners
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
 - [200+ Python Programs For Beginners](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CVLQTKHG)
-### Special Books 
+### Exclusive Line
+- 250+ C Killer One-Liners [working on it]
+- 250+ C++ Killer One-Liners [working on it]
+- 250+ C# Killer One-Liners [working on it]
+- 250+ Java Killer One-Liners [working on it]
+- 250+ Python Killer One-Liners [working on it]
+- 250+ Ruby Killer One-Liners [working on it]
+- [250+ TypeScript Killer One-Liners](https://www.amazon.com/250-Killer-TypeScript-One-Liners-Transform-ebook/dp/B0CYHZ5QKJ)
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
 ### 50 Concepts Every Developer Show Know
 - [50 Python Concepts Every Developer Show Know](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW9LWMTB)
@@ -124,7 +132,7 @@
 - Marketing for Devs
 
 ## Support Me ☕
-If you find my work helpful or just want to show your appreciation, you can buy dḍḍ a coffee. Your support is greatly appreciated!
+If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
 - [PayPal](https://paypal.me/haoficial)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/hernandoabella)
 - [Ko-Fi](https://ko-fi.com/hernandoabella)
