@@ -62,7 +62,7 @@
 - [UI/UX](https://github.com/hernandoabella/ui-ux)
 - [HTML](https://github.com/hernandoabella/html)
 - [CSS](https://github.com/hernandoabella/css)
-### Programming Languages:
+### Programming Languages 💻:
 - [JavaScript](https://github.com/hernandoabella/javascript)
 - [Java](https://github.com/hernandoabella/java)
 - [Python](https://github.com/hernandoabella/python)
