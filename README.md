@@ -109,6 +109,8 @@
 - 250+ Java Killer One-Liners [working on it]
 - 250+ Python Killer One-Liners [working on it]
 - 250+ Ruby Killer One-Liners [working on it]
+- 250+ Go Killer One-Liners [working on it]
+- 250+ Kotlin Killer One-Liners [working on it]
 - [250+ TypeScript Killer One-Liners](https://www.amazon.com/250-Killer-TypeScript-One-Liners-Transform-ebook/dp/B0CYHZ5QKJ)
 - [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
 ### 50 Concepts Every Developer Show Know
