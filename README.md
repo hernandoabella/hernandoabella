@@ -40,52 +40,28 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
 
-# sorted version
-Programming Paradigms
-Soft Skills
-Clean Code
-Object Oriented Programming
-Design Principles
-Data Structures and Algorithms
-Testing
-Version Control
-Software Development Life Cycle
-Design Patterns
-Concurrency and parallelism
-Networking
-Databases
-Security
-CI/CD (Continuous Integration/Continuous Deployment)
-Containerization and Orchestration
-Cloud Computing
-UI/UX (User Interface/User Experience)
-HTML
-CSS
-Game Development
-# sorted version
-
 ## Guides and references 📙:
 - [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
-- [🧹 Clean Code](https://github.com/hernandoabella/clean-code)
-- [Design Principles](https://github.com/hernandoabella/design-principles)
-- [Design Patterns](https://github.com/hernandoabella/design-patterns)
-- [Object Oriented Programming](https://github.com/hernandoabella/object-oriented-programming)
-- [Data Structures and Algorithms](https://github.com/hernandoabella/data-structures-and-algorithms)
-- [Version Control](https://github.com/version-control)
-- [Testing](https://github.com/hernandoabella/testing)
-- [Databases](https://github.com/databases)
 - [Soft Skills](https://github.com/hernandoabella/soft-skills)
-- [Networking](https://github.com/hernandoabella/networking)
-- [Security](https://github.com/hernandoabella/security)
-- [Concurrency and parallelism](https://github.com/hernandoabella/concurrency-and-parallelism)
+- [🧹 Clean Code](https://github.com/hernandoabella/clean-code)
+- [Object Oriented Programming](https://github.com/hernandoabella/object-oriented-programming)
+- [Design Principles](https://github.com/hernandoabella/design-principles)
+- [Data Structures and Algorithms](https://github.com/hernandoabella/data-structures-and-algorithms)
+- [Testing](https://github.com/hernandoabella/testing)
+- [Version Control](https://github.com/version-control)
 - [Software Development Life Cycle](https://github.com/hernandoabella/software-development-life-cycle)
-- [Containerization and Orchestration](https://github.com/hernandoabella/containerization-and-orchestration)
+- [Design Patterns](https://github.com/hernandoabella/design-patterns)
+- [Concurrency and parallelism](https://github.com/hernandoabella/concurrency-and-parallelism)
+- [Networking](https://github.com/hernandoabella/networking)
+- [Databases](https://github.com/databases)
+- [Security](https://github.com/hernandoabella/security)
 - [CI/CD](https://github.com/hernandoabella/ci-cd)
+- [Containerization and Orchestration](https://github.com/hernandoabella/containerization-and-orchestration)
 - [Cloud Computing](https://github.com/hernandoabella/cloud-computing)
-- [Game Development](https://github.com/hernandoabella/game-development)
 - [UI/UX](https://github.com/hernandoabella/ui-ux)
 - [HTML](https://github.com/hernandoabella/html)
 - [CSS](https://github.com/hernandoabella/css)
+- [Game Development](https://github.com/hernandoabella/game-development)
 ### Programming Languages 💻:
 - [JavaScript](https://github.com/hernandoabella/javascript)
 - [Java](https://github.com/hernandoabella/java)
