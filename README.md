@@ -64,12 +64,18 @@
 - [Game Development](https://github.com/hernandoabella/game-development)
 ### Programming Languages 💻:
 - [JavaScript](https://github.com/hernandoabella/javascript)
+- TypeScript
 - [Java](https://github.com/hernandoabella/java)
 - [Python](https://github.com/hernandoabella/python)
 - [C](https://github.com/hernandoabella/c)
 - [C++](https://github.com/hernandoabella/cpp)
 - [C#](https://github.com/hernandoabella/c-sharp)
 - [Ruby](https://github.com/hernandoabella/ruby)
+- Go
+- Swift
+- Kotlin
+- Rust
+- Dart
 
 ## Side projects 🏗️:
 ### Tools:
