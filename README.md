@@ -40,6 +40,30 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
 
+# sorted version
+Programming Paradigms
+Soft Skills
+Clean Code
+Object Oriented Programming
+Design Principles
+Data Structures and Algorithms
+Testing
+Version Control
+Software Development Life Cycle
+Design Patterns
+Concurrency and parallelism
+Networking
+Databases
+Security
+CI/CD (Continuous Integration/Continuous Deployment)
+Containerization and Orchestration
+Cloud Computing
+UI/UX (User Interface/User Experience)
+HTML
+CSS
+Game Development
+# sorted version
+
 ## Guides and references 📙:
 - [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
 - [🧹 Clean Code](https://github.com/hernandoabella/clean-code)
