@@ -136,8 +136,6 @@
 ## Support Me ☕
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
 - [PayPal](https://paypal.me/haoficial)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/hernandoabella)
-- [Ko-Fi](https://ko-fi.com/hernandoabella)
 
 ## Contact Me 📞
 - www.hernandoabella.com/
