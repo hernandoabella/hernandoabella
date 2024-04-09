@@ -115,7 +115,7 @@
 - 250+ C# Killer One-Liners [working on it]
 - 250+ Java Killer One-Liners [working on it]
 - 250+ Python Killer One-Liners [working on it]
-- 250+ Ruby Killer One-Liners [working on it]
+- [250+ Ruby Killer One-Liners](https://www.amazon.com/250-Killer-Ruby-One-Liners-Transform-ebook/dp/B0CXF57XT9)
 - 250+ Go Killer One-Liners [working on it]
 - 250+ Kotlin Killer One-Liners [working on it]
 - [250+ TypeScript Killer One-Liners](https://www.amazon.com/250-Killer-TypeScript-One-Liners-Transform-ebook/dp/B0CYHZ5QKJ)
