@@ -40,27 +40,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
 
+
+
 ## Guides and references 📙:
-- Mobile Application Development (iOS and Android)
-- Microservices
-- Serverless Computing
-- Machine Learning and AI
-- Natural Language Processing
-- Big Data and Analytics
-- Blockchain and Cryptocurrencies
-- Internet of Things (IoT)
-- Augmented Reality (AR) and Virtual Reality (VR)
-- Robotics
-- Quantum Computing
-- Accessibility and Inclusive Design
-- Agile Methodologies
-- Project Management
-- Technical Writing and Documentation
-- Open-Source Software Development
-- Ethical Hacking and Cybersecurity
-- DevSecOps
-- Embedded Systems
-- Computer Graphics and Animation
 - [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
 - [Soft Skills](https://github.com/hernandoabella/soft-skills)
 - [🧹 Clean Code](https://github.com/hernandoabella/clean-code)
@@ -82,6 +64,26 @@
 - [HTML](https://github.com/hernandoabella/html)
 - [CSS](https://github.com/hernandoabella/css)
 - [Game Development](https://github.com/hernandoabella/game-development)
+- Mobile Application Development (iOS and Android)
+- Microservices
+- Serverless Computing
+- Machine Learning and AI
+- Natural Language Processing
+- Big Data and Analytics
+- Blockchain and Cryptocurrencies
+- Internet of Things (IoT)
+- Augmented Reality (AR) and Virtual Reality (VR)
+- Robotics
+- Quantum Computing
+- Accessibility and Inclusive Design
+- Agile Methodologies
+- Project Management
+- Technical Writing and Documentation
+- Open-Source Software Development
+- Ethical Hacking and Cybersecurity
+- DevSecOps
+- Embedded Systems
+- Computer Graphics and Animation
 ### Programming Languages 💻:
 - [JavaScript](https://github.com/hernandoabella/javascript)
 - TypeScript
@@ -97,6 +99,8 @@
 - Kotlin
 - Rust
 - Dart
+- Clojure
+- Scala
 
 ## Side projects 🏗️:
 ### Tools:
