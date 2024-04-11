@@ -86,21 +86,21 @@
 - Computer Graphics and Animation
 ### Programming Languages 💻:
 - [JavaScript](https://github.com/hernandoabella/javascript)
-- TypeScript
+- [TypeScript](https://github.com/hernandoabella/typescript)
 - [Java](https://github.com/hernandoabella/java)
 - [Python](https://github.com/hernandoabella/python)
 - [C](https://github.com/hernandoabella/c)
 - [C++](https://github.com/hernandoabella/cpp)
 - [C#](https://github.com/hernandoabella/c-sharp)
 - [Ruby](https://github.com/hernandoabella/ruby)
-- Go
-- PHP
-- Swift
-- Kotlin
-- Rust
-- Dart
-- Clojure
-- Scala
+- [Go](https://github.com/hernandoabella/go)
+- [PHP](https://github.com/hernandoabella/php)
+- [Swift](https://github.com/hernandoabella/swift)
+- [Kotlin](https://github.com/hernandoabella/kotlin)
+- [Rust](https://github.com/hernandoabella/rust)
+- [Dart](https://github.com/hernandoabella/dart)
+- [Clojure](https://github.com/hernandoabella/clojure)
+- [Scala](https://github.com/hernandoabella/scala)
 
 ## Side projects 🏗️:
 ### Tools:
