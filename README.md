@@ -109,19 +109,19 @@
 
 ## Side projects 🏗️:
 ### Tools:
-- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your products
-- Delete duplicate emails: Delete a list of duplicate emails
-- Code Lines: Convert your snippet into a fancy illustration
+- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your products.
+- Delete duplicate emails: Delete a list of duplicate emails.
+- Code Lines: Convert your snippet into a fancy illustration.
 ### Collections:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code
-- [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection
+- [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code.
+- [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
 
 ## Books: 🏪:
 ### CookBook
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
-- Typescript cookbook [coominng soon]
-- Python cookbook [coominng soon]
+- Typescript cookbook
+- Python cookbook 
 ### Algorithms and Data Structures
 - [Algorithms and Data Structures in Python](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CW65JBLW)
 ### Pattern Programs
