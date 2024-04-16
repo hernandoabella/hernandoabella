@@ -120,10 +120,6 @@
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
 - Typescript cookbook [coominng soon]
 - Python cookbook [coominng soon]
-### Katas For Beginners 
-- Java Katas for beginners [coominng soon]
-- JavaScript Katas for beginners [coominng soon]
-- Python Katas for beginners [coominng soon]
 ### Algorithms and Data Structures
 - [Algorithms and Data Structures in Python](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CW65JBLW)
 ### Pattern Programs
