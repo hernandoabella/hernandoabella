@@ -43,8 +43,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
 </div>
 
-
-
 ## Guides and references 📙:
 - [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
 - [Soft Skills](https://github.com/hernandoabella/soft-skills)
@@ -104,6 +102,10 @@
 - [Dart](https://github.com/hernandoabella/dart)
 - [Clojure](https://github.com/hernandoabella/clojure)
 - [Scala](https://github.com/hernandoabella/scala)
+- [Haskell](https://github.com/hernandoabella/haskell)
+- [Perl](https://github.com/hernandoabella/perl)
+- [Elixir](https://github.com/hernandoabella/elixir)
+- [Julia](https://github.com/hernandoabella/julia)
 
 ## Side projects 🏗️:
 ### Tools:
