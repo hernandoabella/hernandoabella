@@ -165,11 +165,11 @@ I love helping everyone interested in learning new technologies in the easiest w
 - Effective Communication for Developers
 </details>
 
-## Support Me ☕
+### Support Me ☕
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
 - [PayPal](https://paypal.me/haoficial)
 
-## Contact Me 📞
+### Contact Me 📞
 - www.hernandoabella.com/ <br/>
 - www.beat-byte-publishing.com/ <br/>
 - hernandoabella@gmail.com <br/>
