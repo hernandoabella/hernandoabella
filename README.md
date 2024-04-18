@@ -43,7 +43,9 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
 </div>
 
-## Guides and references 📙:
+<details close>
+<summary>Guides and references 📙:</summary>
+  
 - [Programming Paradigms](https://github.com/hernandoabella/programming-paradigms)
 - [Soft Skills](https://github.com/hernandoabella/soft-skills)
 - [🧹 Clean Code](https://github.com/hernandoabella/clean-code)
@@ -85,7 +87,7 @@
 - DevSecOps
 - Embedded Systems
 - Computer Graphics and Animation
-### Programming Languages 💻:
+#### Programming Languages 💻:
 - [JavaScript](https://github.com/hernandoabella/javascript)
 - [TypeScript](https://github.com/hernandoabella/typescript)
 - [Java](https://github.com/hernandoabella/java)
@@ -106,6 +108,10 @@
 - [Perl](https://github.com/hernandoabella/perl)
 - [Elixir](https://github.com/hernandoabella/elixir)
 - [Julia](https://github.com/hernandoabella/julia)
+</details>
+
+
+
 
 ## Side projects 🏗️:
 ### Tools:
