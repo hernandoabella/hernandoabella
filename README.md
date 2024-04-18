@@ -110,6 +110,8 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 #### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code.
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
+#### For fun:
+- Coding Quotes 💭
 </details>
 
 <details close>
