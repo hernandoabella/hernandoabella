@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Hernando!
+# Hello there 👋
 I love helping everyone interested in learning new technologies in the easiest way to take their interest to the next level.
 
 ### Follow me 🤳
