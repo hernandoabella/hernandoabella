@@ -1,8 +1,7 @@
 # Hello there 👋
-I love helping everyone interested in learning new technologies in the easiest way to take their interest to the next level.
+I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
 
 ### Follow me 🤳
-
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
   <a href="https://www.instagram.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
   <a href="https://www.tiktok.com/@hernandoabella"><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-7/512/TikTok_logo_original0-64.png" width="30px"/></a>
@@ -15,7 +14,6 @@ I love helping everyone interested in learning new technologies in the easiest w
 [🏆 Top Resources](https://hernandoabella.com/resources/) <br/>
 [📹 Videos](https://youtube.com/c/hernandoabella) <br/>
 [📰 Newsletter](https://beat-byte-publishing.com/) 
-
 
 ### Tools I use 🛠️
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
