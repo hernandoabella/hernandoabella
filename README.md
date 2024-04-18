@@ -99,6 +99,7 @@ I love helping everyone interested in learning new technologies in the easiest w
 
 <details close>
 <summary>Side projects 🏗️:</summary>
+  
 #### Tools:
 - [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your products.
 - Delete duplicate emails: Delete a list of duplicate emails.
@@ -110,6 +111,7 @@ I love helping everyone interested in learning new technologies in the easiest w
 
 <details close>
 <summary>Books: 🏪:</summary>
+  
   #### CookBook
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
