@@ -159,6 +159,10 @@ I love helping everyone interested in learning new technologies in the easiest w
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
 - [50 Ways to Make Money as a Dev](https://www.amazon.com/Ways-Make-Money-Dev-developer/dp/B0CXM1JDKL)
 - Marketing for Devs
+- Online Presence Guide for devs
+- Time Management Techniques for devs
+- Networking for Developer
+- Effective Communication for Developers
 </details>
 
 ## Support Me ☕
