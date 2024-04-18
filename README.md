@@ -1,12 +1,11 @@
-<div align="center"><h1>Hello there 👋, I'm Hernando!</h1></div>
-<div align="center">I love helping everyone interested in learning new technologies in the easiest way to take their interest to the next level.</div>
+# Hello there 👋, I'm Hernando!
+I love helping everyone interested in learning new technologies in the easiest way to take their interest to the next level.
 <br/>
-<p align="center" width="100%">
+
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
   <a href="https://www.instagram.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
   <a href="https://www.tiktok.com/@hernandoabella"><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-7/512/TikTok_logo_original0-64.png" width="30px"/></a>
   <a href="https://www.youtube.com/c/hernandoabella"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-64.png" width="30px"/></a>
-</p>
 
 [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/) <br/>
 [🌐 Website](https://www.hernandoabella.com) <br/>
@@ -33,15 +32,6 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 </div>
 <br/>
-
-<div align="center>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=hernandoabella)](https://git.io/streak-stats)
-
-  [![Hernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandoabella)](https://github.com/hernandoabella/github-readme-stats)
-</div>
 
 <details close>
 <summary>Guides and references 📙:</summary>
@@ -110,17 +100,19 @@
 - [Julia](https://github.com/hernandoabella/julia)
 </details>
 
-
-
-
-## Side projects 🏗️:
-### Tools:
+<details close>
+<summary>Side projects 🏗️:</summary>
+#### Tools:
 - [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your products.
 - Delete duplicate emails: Delete a list of duplicate emails.
 - Code Lines: Convert your snippet into a fancy illustration.
-### Collections:
+#### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code.
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
+</details>
+
+
+
 
 ## Books: 🏪:
 ### CookBook
