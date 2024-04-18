@@ -8,12 +8,13 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
   <a href="https://www.youtube.com/c/hernandoabella"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-64.png" width="30px"/></a>
 
 ### Useful links 🔗
-[🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/) <br/>
-[🌐 Website](https://www.hernandoabella.com) <br/>
-[📝 Blog](https://medium.com/@hernandoabella) <br/>
-[🏆 Top Resources](https://hernandoabella.com/resources/) <br/>
-[📹 Videos](https://youtube.com/c/hernandoabella) <br/>
-[📰 Newsletter](https://beat-byte-publishing.com/) 
+- [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/) <br/>
+- [🌐 Website](https://www.hernandoabella.com) <br/>
+- [📝 Blog](https://medium.com/@hernandoabella) <br/>
+- [🏆 Top Resources](https://hernandoabella.com/resources/) <br/>
+- [📹 Videos](https://youtube.com/c/hernandoabella) <br/>
+- [📰 Newsletter](https://beat-byte-publishing.com/) 
+- [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 
 ### Tools I use 🛠️
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
