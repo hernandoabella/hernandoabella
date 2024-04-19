@@ -114,6 +114,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
 #### For fun:
 - Coding Quotes 💭
+- Coding Histories
 </details>
 
 <details close>
