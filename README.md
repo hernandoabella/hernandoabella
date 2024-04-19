@@ -1,4 +1,5 @@
 # Hello there 👋
+### About me 😊
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
 
 ### Follow me 🤳
