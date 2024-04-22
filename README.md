@@ -104,6 +104,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 
 <details close>
 <summary>Side projects 🏗️:</summary>
+  
 - 👑 Coding King: Quick resources to help you level up!  
 #### Tools:
 - [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your products.
