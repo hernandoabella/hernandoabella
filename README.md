@@ -113,6 +113,8 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 #### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code.
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
+- Killer-One-Liners:
+- KeyW0rds:
 #### For fun:
 - Coding Quotes 💭
 - Coding Histories
@@ -133,6 +135,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
   - Ruby
   - Elixir
   - Julia
+  #### Key-Words
   #### CookBook
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
@@ -192,5 +195,5 @@ If you find my work helpful or just want to show your appreciation, you can buy 
 
 ### Contact Me 📞
 - www.hernandoabella.com/ <br/>
-- www.beat-byte-publishing.com/ <br/>
+- +573043932597 <br/>
 - hernandoabella@gmail.com <br/>
