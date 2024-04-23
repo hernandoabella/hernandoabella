@@ -120,7 +120,19 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 
 <details close>
 <summary>Books: 🏪:</summary>
-  
+
+  #### Cheat-Sheets
+  - C#
+  - Python
+  - TypeScript
+  - JavaScript
+  - Go
+  - Java
+  - CPP
+  - C
+  - Ruby
+  - Elixir
+  - Julia
   #### CookBook
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
