@@ -104,8 +104,11 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 
 <details close>
 <summary>Side projects 🏗️:</summary>
-  
-- 👑 Coding King: Quick resources to help you level up!  
+
+#### Resources:  
+| Project Name | Description | Live |
+|--------------|-------------|------|
+| [👑 Coding King](https://github.com/hernandoabella/coding-king) | Quick resources to help you level up! | [https://coding-king.vercel.app/](https://coding-king.vercel.app/) |
 #### Tools:
 - [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your products.
 - Delete duplicate emails: Delete a list of duplicate emails.
