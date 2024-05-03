@@ -119,8 +119,8 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 - Killer-One-Liners:
 - KeyW0rds:
 #### For fun:
-- Coding Quotes 💭
-- Coding Histories
+- Coudtes: Date a programmer girl or man with these quotes.
+- Tech Motivator: Daily Tech Quotes to motivate you to write code.
 </details>
 
 <details close>
