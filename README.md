@@ -195,8 +195,3 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 ### Support Me ☕
 If you find my work helpful or just want to show your appreciation, you can buy me a coffee. Your support is greatly appreciated!
 - [PayPal](https://paypal.me/haoficial)
-
-### Contact Me 📞
-- www.hernandoabella.com/ <br/>
-- +573043932597 <br/>
-- hernandoabella@gmail.com <br/>
