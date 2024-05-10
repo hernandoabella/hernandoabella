@@ -100,6 +100,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 - [Perl](https://github.com/hernandoabella/perl)
 - [Elixir](https://github.com/hernandoabella/elixir)
 - [Julia](https://github.com/hernandoabella/julia)
+  
 </details>
 
 <details close>
