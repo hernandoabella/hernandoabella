@@ -121,6 +121,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 - KeyW0rds:
 #### For fun:
 - Coudtes: Date a programmer girl or man with these quotes.
+- healthy.dev
 - Tech Motivator: Daily Tech Quotes to motivate you to write code.
 </details>
 
