@@ -160,7 +160,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 #### Exclusive Line
 - 250+ C Killer One-Liners [working on it]
 - 250+ C++ Killer One-Liners [working on it]
-- 250+ C# Killer One-Liners [working on it]
+- [250+ C# Killer One-Liners](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0D2ZM71J8)
 - 250+ Java Killer One-Liners [working on it]
 - 250+ Python Killer One-Liners [working on it]
 - [250+ Ruby Killer One-Liners](https://www.amazon.com/250-Killer-Ruby-One-Liners-Transform-ebook/dp/B0CXF57XT9)
