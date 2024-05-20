@@ -111,7 +111,9 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 |--------------|-------------|------|
 | [👑 Coding King](https://github.com/hernandoabella/coding-king) | Quick resources to help you level up! | [https://coding-king.vercel.app/](https://coding-king.vercel.app/) |
 #### Tools:
-- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Create stunning cards testimonials for your products.
+| Project Name | Description | Live |
+|--------------|-------------|------|
+| [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator) | Create stunning cards testimonials for your products. | []() |
 - Delete duplicate emails: Delete a list of duplicate emails.
 - Code Lines: Convert your snippet into a fancy illustration.
 #### Collections:
