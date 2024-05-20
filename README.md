@@ -116,8 +116,6 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 | [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator) | Create stunning cards testimonials for your products. | []() |
 | [Delete duplicate emails](https://github.com/hernandoabella/testimonial-card-generator) | Delete a list of duplicate emails. | []() |
 | [Code Lines](https://github.com/hernandoabella/code-lines) | Convert your snippet into a fancy illustration. | []() |
-- : 
-- : 
 #### Collections:
 - [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code.
 - [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
@@ -125,7 +123,6 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 - KeyW0rds:
 #### For fun:
 - Coudtes: Date a programmer girl or man with these quotes.
-- healthy.dev
 - Tech Motivator: Daily Tech Quotes to motivate you to write code.
 </details>
 
