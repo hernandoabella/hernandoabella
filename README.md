@@ -117,10 +117,12 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 | [Delete duplicate emails](https://github.com/hernandoabella/testimonial-card-generator) | Delete a list of duplicate emails. | []() |
 | [Code Lines](https://github.com/hernandoabella/code-lines) | Convert your snippet into a fancy illustration. | []() |
 #### Collections:
-- [JS-APPS](https://github.com/hernandoabella/js-apps): Mega app collection to practice JavaScript code.
-- [ASTERISK](https://github.com/hernandoabella/asterisk): Mega pattern program collection.
-- Killer-One-Liners:
-- KeyW0rds:
+| Project Name | Description | Live |
+|--------------|-------------|------|
+| [JS-APPS](https://github.com/hernandoabella/js-apps) | Mega app collection to practice JavaScript code | |
+| [ASTERISK](https://github.com/hernandoabella/asterisk) | Mega pattern program collection | |
+| Killer-One-Liners |  | |
+| KeyW0rds | | |
 #### For fun:
 - Coudtes: Date a programmer girl or man with these quotes.
 - Tech Motivator: Daily Tech Quotes to motivate you to write code.
