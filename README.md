@@ -43,6 +43,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 
 #### Shell:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="30px"/></span>
 
 #### Code Editor:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/></span>
