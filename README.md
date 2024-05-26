@@ -12,6 +12,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 - [🌐 Website](https://www.hernandoabella.com) <br/>
 - [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/) <br/>
 - [📝 Blog](https://medium.com/@hernandoabella) <br/>
+- [🚀 Side-Projects](https://github.com/hernandoabella/side-projects) <br/>
 - [📚 Books](https://github.com/hernandoabella/books) <br/>
 - [🏆 Top Resources](https://github.com/hernandoabella/resources) <br/>
 - [📹 Videos](https://youtube.com/c/hernandoabella) <br/>
@@ -29,12 +30,12 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 #### Front-End:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/></span>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px"/></span> 
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px"/></span>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="30px"/></span>
 
 #### Back-End:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px"/></span>
