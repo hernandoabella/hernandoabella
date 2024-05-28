@@ -1,8 +1,13 @@
 # Hello there 👋
 ### About me 😊
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
+#### Nationality: <span><img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="20px"/></span>
+#### Hobbies: Coding, Making Music, Reading, Hiking, and Mountain Bike
+#### Contact:
+- Phone: [+57 304 393 2597](tel:+573043932597)
+- Email: [hernandoabella@gmail.com](mailto:hernandoabella@gmail.com)
 
-### Follow me 🤳
+### Social 🤳
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
   <a href="https://www.instagram.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
   <a href="https://www.tiktok.com/@hernandoabella"><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-7/512/TikTok_logo_original0-64.png" width="30px"/></a>
@@ -22,7 +27,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 ### Tools I use 🛠️
 
 #### UI/UX Design:
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"/></span>
+<span><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="30px"/></span>
