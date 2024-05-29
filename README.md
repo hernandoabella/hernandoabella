@@ -3,8 +3,8 @@
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
 #### Hobbies: 💻 Coding, 🎵 Making Music, 📖 Reading, 🥾 Hiking, and 🚵‍♂️ Mountain Bike
 #### Contact:
-- Phone: [+57 304 393 2597](tel:+573043932597)
-- Email: [hernandoabella@gmail.com](mailto:hernandoabella@gmail.com)
+- 📞 Phone: [+57 304 393 2597](tel:+573043932597)
+- 📧 Email: [hernandoabella@gmail.com](mailto:hernandoabella@gmail.com)
 
 ### Social 🤳
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
