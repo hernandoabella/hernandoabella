@@ -1,9 +1,7 @@
 # Hello there 👋
 ### About me 😊
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
-#### Age: 28
-#### Nationality: <span><img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="20px"/></span>
-#### Hobbies: Coding, Making Music, Reading, Hiking, and Mountain Bike
+#### Hobbies: 💻 Coding, 🎵 Making Music, 📖 Reading, 🥾 Hiking, and 🚵‍♂️ Mountain Bike
 #### Contact:
 - Phone: [+57 304 393 2597](tel:+573043932597)
 - Email: [hernandoabella@gmail.com](mailto:hernandoabella@gmail.com)
