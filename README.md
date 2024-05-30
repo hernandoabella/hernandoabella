@@ -45,7 +45,9 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="30px"/></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"/></span>
 <span><img src="https://ia801703.us.archive.org/32/items/github.com-dagster-io-dagster_-_2021-01-15_03-10-03/cover.jpg" width="30px"/></span>
+<span><img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="30px"/></span>
 <span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFccAfpRng_1FTS8Y5BhUOSvkulUkYXzVtOw&s" width="30px"/></span>
 
 #### Shell:
