@@ -58,6 +58,8 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 <span><img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="30px"/></span>
 
+#### CMS:
+<span><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/360/square_480/Strapi.monogram.logo.png" width="30px"/></span>
 
 #### Shell:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px"/></span>
