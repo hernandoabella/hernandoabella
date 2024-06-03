@@ -51,6 +51,9 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"/></span>
+
+
+#### Data Bases
 <span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFccAfpRng_1FTS8Y5BhUOSvkulUkYXzVtOw&s" width="30px"/></span>
 
 #### Data Infrastructure:
