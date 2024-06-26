@@ -3,6 +3,7 @@
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
 
 #### Hobbies: 
+- 🎮 Video Games 
 - 💻 Coding
 - 🎵 Making Music
 - 📖 Reading
