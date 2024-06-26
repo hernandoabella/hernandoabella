@@ -8,6 +8,7 @@ I love empowering individuals to learn new technologies effortlessly, fostering 
 - 📖 Reading
 - 🥾 Hiking
 - 🚵‍♂️ Mountain Bike
+- 🏊 Swimming 
 
 #### Contact:
 - 📞 Phone: [+57 304 393 2597](tel:+573043932597)
