@@ -2,6 +2,8 @@
 ### About me 😊
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
 
+![Hernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernandoabella&show_icons=true)
+
 #### Hobbies: 
 - 🎮 Video Games 
 - 💻 Coding
