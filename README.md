@@ -3,8 +3,8 @@
 I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
 
 <p align="center">
-  <img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=hernandoabella&show_icons=true"/>
-  <img align="left" height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=hernandoabella&hide=html,scss,css&langs_count=8&layout=compact&card_width=150" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=hernandoabella&show_icons=true"/>
+  <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=hernandoabella&hide=html,scss,css&langs_count=8&layout=compact&card_width=150" />
 </p>
 <p align="center">
 <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=hernandoabella"/>
