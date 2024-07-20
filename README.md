@@ -1,6 +1,6 @@
 # Hello there 👋
 ### About me 😊
-I love empowering individuals to learn new technologies effortlessly, fostering growth and success in their tech journey.
+I love empowering individuals to learn new technologies effortlessly.
 
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=hernandoabella&show_icons=true"/>
