@@ -1,4 +1,4 @@
-9# Hello there 👋
+# Hello there 👋
 ### About me 😊
 I love empowering individuals to learn new technologies effortlessly.
 
