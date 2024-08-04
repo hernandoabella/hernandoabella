@@ -9,18 +9,7 @@ I love empowering individuals to learn new technologies effortlessly.
 - 📖 Reading
 - 🥾 Hiking
 - 🚵‍♂️ Mountain Bike
-- 🏊 Swimming 
-
-<p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=hernandoabella&show_icons=true"/>
-  <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=hernandoabella&hide=html,scss,css&langs_count=8&layout=compact&card_width=150" />
-</p>
-<p align="center">
-<img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=hernandoabella"/>
-<img height=200 src="https://github-profile-trophy.vercel.app/?username=hernandoabella&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-</p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hernandoabella&height=200)
+- 🏊 Swimming
 
 ### Tools I use 🛠️
 | UI/UX Design | Front-End | Back-End | Data Bases | Data Infrastructure | Containers | CMS | Shell | Code Editor | Control Version | Productivity | Cloud Platform |
