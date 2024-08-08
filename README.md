@@ -1,6 +1,6 @@
 # Hello there 👋
 ### About me 😊
-I love empowering individuals to learn new technologies effortlessly.
+I love helping people to learn new technologies effortlessly.
 
 #### Hobbies: 
 - 🎮 Video Games 
