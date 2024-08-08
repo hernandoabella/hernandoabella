@@ -1,5 +1,4 @@
-# Hello there 👋
-### About me 😊
+# Hello there 👋😊
 I love helping people to learn new technologies effortlessly.
 
 #### Hobbies: 
