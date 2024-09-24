@@ -21,6 +21,10 @@ I love helping people to learn new technologies effortlessly.
 - [📰 Newsletter](https://beat-byte-publishing.com/)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 
+### Resources:
+[+200 Programming Terms & Definitions](https://github.com/hernandoabella/programming-terms-and-definitions)
+
+
 ### Contact:
 - 📞 Phone: [+57 304 393 2597](tel:+573043932597)
 - 📧 Email: [hernandoabella@gmail.com](mailto:hernandoabella@gmail.com)
