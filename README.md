@@ -24,6 +24,9 @@ I love helping people to learn new technologies effortlessly.
 ### Resources:
 [+200 Programming Terms & Definitions](https://github.com/hernandoabella/programming-terms-and-definitions)
 
+### Inspired by:
+[@florinpop1705](https://x.com/florinpop1705) <br/>
+[@csaba_kissi](https://x.com/@csaba_kissi)
 
 ### Contact:
 - 📞 Phone: [+57 304 393 2597](tel:+573043932597)
