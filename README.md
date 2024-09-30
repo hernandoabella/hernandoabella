@@ -1,6 +1,6 @@
 # Hello there 👋😊, I'm Hernando Abella 
 ##  Full Stack Developer
-I love helping people to learn new technologies effortlessly.
+I love helping people to learn new technologies.
 
 ### Hobbies: 
 - 🎮 Video Games 
