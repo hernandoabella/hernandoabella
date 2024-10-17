@@ -22,7 +22,10 @@ I love helping people to learn new technologies.
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 
 ### Resources:
-[+200 Programming Terms & Definitions](https://github.com/hernandoabella/programming-terms-and-definitions)
+- [+200 Programming Terms & Definitions](https://github.com/hernandoabella/programming-terms-and-definitions)
+
+#### Cheat Sheets:
+- [Python Cheat Sheet](hernandoabella.gumroad.com/l/cmizh)
 
 ### Inspired by:
 [@florinpop1705](https://x.com/florinpop1705) <br/>
