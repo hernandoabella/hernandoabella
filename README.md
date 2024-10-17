@@ -25,7 +25,7 @@ I love helping people to learn new technologies.
 - [+200 Programming Terms & Definitions](https://github.com/hernandoabella/programming-terms-and-definitions)
 
 #### Cheat Sheets:
-- [Python Cheat Sheet](hernandoabella.gumroad.com/l/cmizh)
+- [Python Cheat Sheet](https://hernandoabella.gumroad.com/l/cmizh)
 
 ### Inspired by:
 [@florinpop1705](https://x.com/florinpop1705) <br/>
