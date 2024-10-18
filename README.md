@@ -26,6 +26,7 @@ I love helping people to learn new technologies.
 
 #### Cheat Sheets:
 - [Python Cheat Sheet](https://hernandoabella.gumroad.com/l/cmizh)
+- [JavaScript Cheat Sheet]()
 
 ### Inspired by:
 [@florinpop1705](https://x.com/florinpop1705) <br/>
