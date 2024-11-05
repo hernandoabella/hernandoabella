@@ -25,7 +25,8 @@
 
 #### Cheat Sheets:
 - [Python Cheat Sheet](https://hernandoabella.gumroad.com/l/cmizh)
-- [JavaScript Cheat Sheet]()
+- [JavaScript Cheat Sheet](hernandoabella.gumroad.com/l/cfllpw)
+- [SQL Cheat Sheet]()
 
 ### Inspired by:
 - [@florinpop1705](https://x.com/florinpop1705) <br/>
