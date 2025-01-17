@@ -24,7 +24,7 @@
 - [+200 Programming Terms & Definitions](https://github.com/hernandoabella/programming-terms-and-definitions)
 
 #### Cheat Sheets:
-- [SQL Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX)
+- [SQL Cheat Sheet](hernandoabella.gumroad.com/l/junqv)
 - [Python Cheat Sheet](https://hernandoabella.gumroad.com/l/cmizh)
 - [JavaScript Cheat Sheet](https://hernandoabella.gumroad.com/l/cfllpw)
 
