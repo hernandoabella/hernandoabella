@@ -1,7 +1,7 @@
 # Hello there 👋😊, I'm Hernando Abella 
 ##  Full Stack Developer
 
-### Hobbies: 
+### What I do in my free time: 
 - 🎮 Video Games 
 - 🎵 Making Music
 - 📖 Reading
@@ -24,9 +24,9 @@
 - [+200 Programming Terms & Definitions](https://github.com/hernandoabella/programming-terms-and-definitions)
 
 #### Cheat Sheets:
+- [SQL Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX)
 - [Python Cheat Sheet](https://hernandoabella.gumroad.com/l/cmizh)
 - [JavaScript Cheat Sheet](https://hernandoabella.gumroad.com/l/cfllpw)
-- [SQL Cheat Sheet]()
 
 ### Inspired by:
 - [@florinpop1705](https://x.com/florinpop1705) <br/>
