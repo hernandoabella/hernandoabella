@@ -18,6 +18,7 @@
 - [🏆 Top Resources](https://github.com/hernandoabella/resources)
 - [📹 Videos](https://youtube.com/c/hernandoabella)
 - [📰 Newsletter](https://beat-byte-publishing.com/)
+- [👑 Coding King](https://www.codingking.net)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 
 ### Resources:
