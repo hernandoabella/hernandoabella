@@ -1,4 +1,4 @@
-#### *Thanks for visiting my profile!* 👋😊
+#### *Thanks for visiting my profile!* 👋😊✨
 ## I'm Hernando Abella | Dynamic Full Stack Engineer <br/>
 ###  <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px"/></div>
 
@@ -12,7 +12,7 @@
 
 ### Useful links 🔗
 
-- [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/)
+- [🤵 Professional Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
 - [🚀 Side-Projects](https://github.com/hernandoabella/side-projects)
 - [📚 Books](https://github.com/hernandoabella/books)
