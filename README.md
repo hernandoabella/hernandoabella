@@ -1,5 +1,5 @@
 # Hello there 👋😊, I'm Hernando Abella 
-##  Full Stack Developer
+##  Full Stack | Tailwind CSS, Bootstrap 5, TypeScript, React.JS, Node.JS, PHP, Python, Java
 
 ### I can't live without:
 - 🎮 Video Games 
@@ -18,20 +18,22 @@
 - [🏆 Top Resources](https://github.com/hernandoabella/resources)
 - [📹 Videos](https://youtube.com/c/hernandoabella)
 - [📰 Newsletter](https://beat-byte-publishing.com/)
-- [👑 Coding King](https://www.codingking.net)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 
-### Resources:
-- [+200 Programming Terms & Definitions](https://github.com/hernandoabella/programming-terms-and-definitions)
+### Top Resources:
 
 #### Cheat Sheets:
 - [SQL Cheat Sheet](hernandoabella.gumroad.com/l/junqv)
 - [Python Cheat Sheet](https://hernandoabella.gumroad.com/l/cmizh)
 - [JavaScript Cheat Sheet](https://hernandoabella.gumroad.com/l/cfllpw)
+- [Java Cheat Sheet]()
+- [C Cheat sheet working on]()
+- [C++ Cheat sheet working on]()
+- [C# Cheat sheet working on]()
 
-### Inspired by:
-- [@florinpop1705](https://x.com/florinpop1705) <br/>
-- [@csaba_kissi](https://x.com/@csaba_kissi)
+### Inspired & motivated by:
+- *[@florinpop1705](https://x.com/florinpop1705)* <br/>
+- *[@csaba_kissi](https://x.com/@csaba_kissi)* <br />
 
 ### Contact:
 - 📞 **Phone:** [+57 304 393 2597](tel:+573043932597)
