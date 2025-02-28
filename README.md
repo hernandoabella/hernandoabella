@@ -1,8 +1,19 @@
 #### *Thanks for visiting my profile!* 👋😊✨
-## I'm Hernando Abella | Dynamic Full Stack Engineer <br/>
-###  <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"/></div>
+## I'm Hernando Abella | Dynamic Full Stack Engineer<br/>
 
-### I can't live without:
+###  My tool stack 🛠️
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"/> 
+  <img src="https://github.com/user-attachments/assets/87e5b7f3-7abc-42f8-9704-80b4f360568e" width="30px"/>
+</div>
+
+### I can't live without my hobbies 💆
 - 🎮 Video Games 
 - 🎵 Making Music
 - 📖 Reading
@@ -11,7 +22,6 @@
 - 🏊 Swimming
 
 ### Useful links 🔗
-
 - [🤵 Professional Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
 - [🚀 Side-Projects](https://github.com/hernandoabella/side-projects)
