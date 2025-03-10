@@ -1,6 +1,6 @@
 #### *Thanks for visiting my profile!* 👋😊✨
 
-![Technology LinkedIn Banner in Blue White and Grey Modern Style](https://github.com/user-attachments/assets/603a678d-bb58-4a82-8532-44f4688aca8a)
+![Technology LinkedIn Banner in Blue White and Grey Modern Style (1)](https://github.com/user-attachments/assets/fdbded70-dcf0-46f7-a591-71411e7fece1)
 
 ###  My tool stack 🛠️
 <div>
