@@ -1,6 +1,5 @@
+![GitHub Banners](https://github.com/user-attachments/assets/00fce8ff-e1c7-46a6-964c-dfbfdf4542e6)
 #### *Thanks for visiting my profile!* 👋😊✨
-
-![Technology LinkedIn Banner in Blue White and Grey Modern Style (1)](https://github.com/user-attachments/assets/fdbded70-dcf0-46f7-a591-71411e7fece1)
 
 ###  My tool stack 🛠️
 <div>
