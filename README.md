@@ -13,14 +13,6 @@
   <img src="https://github.com/user-attachments/assets/87e5b7f3-7abc-42f8-9704-80b4f360568e" width="30px"/>
 </div>
 
-### I can't live without my hobbies 💆
-⤿ 🎮 Video Games <br/>
-⤿ 🎵 Making Music <br/>
-⤿ 📖 Reading <br/> 
-⤿ 🥾 Hiking <br/>
-⤿ 🚵‍♂️ Mountain Bike <br/>
-⤿ 🏊 Swimming
-
 ### Useful links 🔗
 - [🤵 Professional Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
