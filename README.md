@@ -14,10 +14,10 @@
 </div>
 
 ### Useful links 🔗
-- [🤵 Professional Portfolio](https://portfolio-hernandoabella.vercel.app/)
+- [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
-- [🚀 Side-Projects](https://github.com/hernandoabella/side-projects)
-- [📚 Books](https://github.com/hernandoabella/books)
+- [🚀 Side Projects](https://github.com/hernandoabella/side-projects)
+- [📚 Mega Book Collection](https://github.com/hernandoabella/books)
 - [🏆 Top Resources](https://github.com/hernandoabella/top-resources)
 - [📹 Videos](https://youtube.com/c/hernandoabella)
 - [📰 Newsletter](https://beat-byte-publishing.com/)
