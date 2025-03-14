@@ -14,12 +14,12 @@
 </div>
 
 ### I can't live without my hobbies 💆
-- 🎮 Video Games 
-- 🎵 Making Music
-- 📖 Reading
-- 🥾 Hiking
-- 🚵‍♂️ Mountain Bike
-- 🏊 Swimming
+⤿ 🎮 Video Games <br/>
+⤿ 🎵 Making Music <br/>
+⤿ 📖 Reading <br/> 
+⤿ 🥾 Hiking <br/>
+⤿ 🚵‍♂️ Mountain Bike <br/>
+⤿ 🏊 Swimming
 
 ### Useful links 🔗
 - [🤵 Professional Portfolio](https://portfolio-hernandoabella.vercel.app/)
