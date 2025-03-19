@@ -1,5 +1,5 @@
 ![GitHub Banners](https://github.com/user-attachments/assets/00fce8ff-e1c7-46a6-964c-dfbfdf4542e6)
-#### *Thanks for visiting my profile!* 👋😊✨
+> *Thanks for visiting my profile!* 👋😊✨
 
 ###  My tool stack 🛠️
 <div>
@@ -32,14 +32,12 @@
 - *[@florinpop1705](https://x.com/florinpop1705)* <br/>
 - *[@csaba_kissi](https://x.com/@csaba_kissi)* <br />
 
----
-
 ### Contact:
 - 📞 **Phone:** [+57 304 393 2597](tel:+573043932597)
 - 📧 **Email:** [hernandoabella@gmail.com](mailto:hernandoabella@gmail.com)
 - 🌐 **Website:** [https://www.hernandoabella.com](https://www.hernandoabella.com)
 
-### Follow me @:
+### Follow me:
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
   <a href="https://www.instagram.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
   <a href="https://www.tiktok.com/@hernandoabella"><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-7/512/TikTok_logo_original0-64.png" width="30px"/></a>
