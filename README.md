@@ -15,6 +15,8 @@
   <img src="https://github.com/user-attachments/assets/87e5b7f3-7abc-42f8-9704-80b4f360568e" width="30px"/>
 </div>
 
+---
+
 ### Useful links 🔗
 - [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
@@ -24,9 +26,13 @@
 - [📰 Newsletter](https://beat-byte-publishing.com/)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 
+---
+
 ### Inspired & motivated by ⭐:
 - *[@florinpop1705](https://x.com/florinpop1705)* <br/>
 - *[@csaba_kissi](https://x.com/@csaba_kissi)* <br />
+
+---
 
 ### Contact:
 - 📞 **Phone:** [+57 304 393 2597](tel:+573043932597)
