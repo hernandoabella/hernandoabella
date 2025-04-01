@@ -1,7 +1,11 @@
+
+
 ![GitHub Banners](https://github.com/user-attachments/assets/00fce8ff-e1c7-46a6-964c-dfbfdf4542e6)
 > *Thanks for visiting my profile!* 👋😊✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3227F7&width=435&separator=%3C&lines=print('hello+world%F0%9F%91%8B')%3Cconsole.log(%22I'm+Hernando+Abella%22);%3C%5B'Full'%2C+'Stack'%2C+'Developer'%5D)](https://git.io/typing-svg)
+<img src="https://github.com/user-attachments/assets/6ca30c52-341f-4201-a549-5721bf38cce7" alt="octocat" width="50px"/>  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3227F7&width=435&separator=%3C&lines=print('hello+world%F0%9F%91%8B')%3Cconsole.log(%22I'm+Hernando+Abella%22);%3C%5B'Full'%2C+'Stack'%2C+'Developer'%5D)](https://git.io/typing-svg)
+
+
 
 ###  My tool stack 🛠️
 <div>
@@ -18,6 +22,8 @@
 </div>
 
 ---
+
+![39Cg](https://github.com/user-attachments/assets/885dbebd-9bff-4205-90f0-c37404d13319)
 
 ### Useful links 🔗
 - [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/)
