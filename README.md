@@ -22,8 +22,6 @@
 
 ---
 
-![39Cg](https://github.com/user-attachments/assets/885dbebd-9bff-4205-90f0-c37404d13319)
-
 ### Useful links 🔗
 - [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
