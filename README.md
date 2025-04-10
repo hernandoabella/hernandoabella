@@ -23,6 +23,7 @@
 ---
 
 ### Useful links 🔗
+- 🌐 **Website:** [https://www.hernandoabella.com](https://www.hernandoabella.com)
 - [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
 - [🚀 Side Projects](https://github.com/hernandoabella/side-projects)
@@ -36,9 +37,6 @@
 ### Inspired & motivated by ⭐:
 - *[@florinpop1705](https://x.com/florinpop1705)* <br/>
 - *[@csaba_kissi](https://x.com/@csaba_kissi)* <br />
-
-### Contact:
-- 🌐 **Website:** [https://www.hernandoabella.com](https://www.hernandoabella.com)
 
 ### Follow me:
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
