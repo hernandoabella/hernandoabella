@@ -23,8 +23,8 @@
 ---
 
 ### Useful links 🔗
-- 🌐 **Website:** [https://www.hernandoabella.com](https://www.hernandoabella.com)
-- [🤵 Portfolio](https://portfolio-hernandoabella.vercel.app/)
+- [🫅 Website](https://www.hernandoabella.com)
+- [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
 - [🚀 Side Projects](https://github.com/hernandoabella/side-projects)
 - [📚 Mega Book Collection](https://github.com/hernandoabella/books)
