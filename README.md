@@ -38,7 +38,6 @@
 - *[@csaba_kissi](https://x.com/@csaba_kissi)* <br />
 
 ### Contact:
-- 📧 **Email:** [hernandoabella@gmail.com](mailto:hernandoabella@gmail.com)
 - 🌐 **Website:** [https://www.hernandoabella.com](https://www.hernandoabella.com)
 
 ### Follow me:
