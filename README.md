@@ -1,6 +1,5 @@
+![Hernando Abella Logo for Github](https://github.com/user-attachments/assets/e4638566-0723-4742-a307-bdf81aff1949)
 
-
-![GitHub Banners](https://github.com/user-attachments/assets/00fce8ff-e1c7-46a6-964c-dfbfdf4542e6)
 > *Thanks for visiting my profile!* 👋😊✨
 
 <img src="https://github.com/user-attachments/assets/6ca30c52-341f-4201-a549-5721bf38cce7" alt="octocat" width="50px"/>  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3227F7&width=435&separator=%3C&lines=print('hello+world%F0%9F%91%8B')%3Cconsole.log(%22I'm+Hernando+Abella%22);%3C%5B'Full'%2C+'Stack'%2C+'Developer'%5D)](https://git.io/typing-svg)
