@@ -1,9 +1,15 @@
-![Hernando Abella Logo for Github](https://github.com/user-attachments/assets/e4638566-0723-4742-a307-bdf81aff1949)
+![Hernando Abella Logo for Github (1)](https://github.com/user-attachments/assets/df6763c8-e14e-4294-ab7f-915ed9111dcc)
 
 > *Thanks for visiting my profile!* 👋😊✨
 
-<img src="https://github.com/user-attachments/assets/6ca30c52-341f-4201-a549-5721bf38cce7" alt="octocat" width="50px"/>  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3227F7&width=435&separator=%3C&lines=print('hello+world%F0%9F%91%8B')%3Cconsole.log(%22I'm+Hernando+Abella%22);%3C%5B'Full'%2C+'Stack'%2C+'Developer'%5D)](https://git.io/typing-svg)
+<img src="https://github.com/user-attachments/assets/6ca30c52-341f-4201-a549-5721bf38cce7" alt="octocat" width="50px"/>  
 
+###  Services I do 👨‍🔧
+- Landing Page Creation (Most requested 🔥)
+- Website Development
+- E-commerce Development
+- Perfect Pixel HTML Conversions (PSD, Figma, XD, or PDF)
+> **Contact me** *hernandoabella@gmail.com* 👋😊✨ or **[Schedule a meet](https://calendly.com/hernandoabella)**
 ###  My tool stack 🛠️
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/> 
