@@ -25,6 +25,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px"/> 
 </div>
 
+###  Side-Projects 🛠️
+- [Coding King](https://www.codingking.net)
+- [JS-APPS](https://js-apps-three.vercel.app/)
+- [Killer One Liners](https://github.com/hernandoabella/killer-one-liners)
+- [{PROGRAMS}](https://github.com/hernandoabella/programs)
+- [Pattern Programs](https://github.com/hernandoabella/pattern-programs)
+- [Testimonial Card Generator]()
+- [Fancy Code Lines](https://fancy-code-lines.vercel.app/)
+- [Follower Party](https://github.com/hernandoabella/follower-party)
+
 ---
 
 ### Useful links 🔗
