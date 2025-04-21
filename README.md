@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px"/> 
 </div>
 
-###  Side-Projects 🛠️
+###  Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net)
 - [JS-APPS](https://js-apps-three.vercel.app/)
 - [Killer One Liners](https://github.com/hernandoabella/killer-one-liners)
