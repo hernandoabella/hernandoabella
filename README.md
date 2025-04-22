@@ -41,7 +41,7 @@
 - [🫅 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
-- [🚀 Side Projects](https://github.com/hernandoabella/side-projects)
+- [🚀 Cool Tools](https://github.com/hernandoabella/cool-tools)
 - [📚 Mega Book Collection](https://github.com/hernandoabella/books)
 - [📹 Videos](https://youtube.com/c/hernandoabella)
 - [📰 Newsletter](https://beat-byte-publishing.com/)
