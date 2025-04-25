@@ -27,7 +27,8 @@
 
 ###  Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net)
-- [JS-APPS](https://js-apps-three.vercel.app/)
+- [PY-APPS](https://github.com/hernandoabella/py-apps)
+- [JS-APPS](https://github.com/hernandoabella/js-apps)
 - [Killer One Liners](https://github.com/hernandoabella/killer-one-liners)
 - [{PROGRAMS}](https://github.com/hernandoabella/programs)
 - [Pattern Programs](https://github.com/hernandoabella/pattern-programs)
