@@ -45,7 +45,6 @@
 - [🚀 Cool Tools](https://github.com/hernandoabella/cool-tools)
 - [📚 Mega Book Collection](https://github.com/hernandoabella/books)
 - [📹 Videos](https://youtube.com/c/hernandoabella)
-- [📰 Newsletter](https://beat-byte-publishing.com/)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 
 ---
