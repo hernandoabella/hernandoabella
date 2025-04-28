@@ -32,7 +32,7 @@
 - [Killer One Liners](https://github.com/hernandoabella/killer-one-liners)
 - [{PROGRAMS}](https://github.com/hernandoabella/programs)
 - [Pattern Programs](https://github.com/hernandoabella/pattern-programs)
-- [Testimonial Card Generator]()
+- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator)
 - [Fancy Code Lines](https://fancy-code-lines.vercel.app/)
 - [Follower Party](https://github.com/hernandoabella/follower-party)
 
