@@ -49,10 +49,6 @@
 
 ---
 
-### Inspired & motivated by ⭐:
-- *[@florinpop1705](https://x.com/florinpop1705)* <br/>
-- *[@csaba_kissi](https://x.com/@csaba_kissi)* <br />
-
 ### Follow me:
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
   <a href="https://www.instagram.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
