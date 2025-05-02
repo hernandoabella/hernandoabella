@@ -36,8 +36,6 @@
 - [Fancy Code Lines](https://fancy-code-lines.vercel.app/)
 - [Follower Party](https://github.com/hernandoabella/follower-party)
 
----
-
 ### Useful links 🔗
 - [🫅 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
@@ -46,8 +44,6 @@
 - [📚 Mega Book Collection](https://github.com/hernandoabella/books)
 - [📹 Videos](https://youtube.com/c/hernandoabella)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
-
----
 
 ### Follow me:
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
