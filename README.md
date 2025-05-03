@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px"/> 
 </div>
 
-###  Side-Projects 👩🏻‍💻
+### I Love Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net)
 - [PY-APPS](https://github.com/hernandoabella/py-apps)
 - [JS-APPS](https://github.com/hernandoabella/js-apps)
@@ -35,6 +35,7 @@
 - [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator)
 - [Fancy Code Lines](https://fancy-code-lines.vercel.app/)
 - [Follower Party](https://github.com/hernandoabella/follower-party)
+- [Coding Clash](https://github.com/hernandoabella/coding-clash)
 
 ### Useful links 🔗
 - [🫅 Website](https://www.hernandoabella.com)
