@@ -25,6 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px"/> 
 </div>
 
+### Available Courses ⬇️
+- [Full Database Course](working on it)
+
 ### I Love Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net)
 - [PY-APPS](https://github.com/hernandoabella/py-apps)
