@@ -26,7 +26,8 @@
 </div>
 
 ### Available Courses ⬇️
-- [Practical Python Course](working on it!)
+- [Practical System Design](working on it!)
+- [Practical Python](working on it!)
 
 ### I Love Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net)
