@@ -26,7 +26,7 @@
 </div>
 
 ### Available Courses ⬇️
-- [Full Database Course](working on it)
+- [Practical Python Course](working on it!)
 
 ### I Love Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net)
