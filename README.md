@@ -1,4 +1,5 @@
-![Hernando Abella Logo for Github (2)](https://github.com/user-attachments/assets/f3d21b16-58fe-422d-90a7-587c908a1aa7)
+![Hernando Abella Logo for Github](https://github.com/user-attachments/assets/6f697911-b971-46bb-8ec4-1b55575ce48f)
+
 
 > *Thanks for visiting my profile!* 👋😊✨
 
