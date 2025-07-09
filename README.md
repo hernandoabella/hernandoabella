@@ -30,7 +30,7 @@
 </div>
 
 ### Available Courses ⬇️
-- [Practical System Design](https://www.github.com/practical-system-design) 👷
+- [Practical System Design](https://www.github.com/hernandoabella/practical-system-design) 👷
 - [Practical Python](working on it!) 👷
 
 ### I Love Side-Projects 👩🏻‍💻
