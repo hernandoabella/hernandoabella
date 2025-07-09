@@ -35,7 +35,6 @@
 
 ### I Love Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net)
-- [PY-APPS](https://github.com/hernandoabella/py-apps)
 - [JS-APPS](https://github.com/hernandoabella/js-apps)
 - [Killer One Liners](https://github.com/hernandoabella/killer-one-liners)
 - [{PROGRAMS}](https://github.com/hernandoabella/programs)
@@ -53,6 +52,7 @@
 - [📚 Mega Book Collection](https://github.com/hernandoabella/books)
 - [📹 Videos](https://youtube.com/c/hernandoabella)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
+- [📙 Visual Guides](https://github.com/hernandoabella/visual-guides)
 
 ### Follow me:
   <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
