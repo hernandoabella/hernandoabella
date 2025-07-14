@@ -31,7 +31,7 @@
 
 ### Available Courses ⬇️
 - [Practical System Design](https://www.github.com/hernandoabella/practical-system-design) 👷
-- [Practical Python](working on it!) 👷
+- [Practical Python](https://www.github.com/hernandoabella/practical-python) 👷
 
 ### I Love Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net)
