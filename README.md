@@ -1,4 +1,5 @@
-![Hernando Abella Logo for Github](https://github.com/user-attachments/assets/6f697911-b971-46bb-8ec4-1b55575ce48f)
+<img width="1584" height="396" alt="Hernando Abella Logo for Github" src="https://github.com/user-attachments/assets/5d4e00fe-7230-4b6a-b959-068d74f0c1d8" />
+
 👋😊✨
 > **Contact me:** hernandoabella@gmail.com || **[Schedule a meet](https://calendly.com/hernandoabella)**
 - [🫅 Website](https://www.hernandoabella.com)
