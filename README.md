@@ -48,4 +48,4 @@
 - [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator)
 - [Fancy Code Lines](https://fancy-code-lines.vercel.app/)
 - [Follower Party](https://github.com/hernandoabella/follower-party)
-- [Coding Clash](https://github.com/hernandoabella/coding-clash)
+- [Coding Clash](https://github.com/hernandoabella/coding-clash): Battle your friend in a coding challenge.
