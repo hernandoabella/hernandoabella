@@ -40,12 +40,12 @@
 - [Practical Python](https://www.github.com/hernandoabella/practical-python) 👷
 
 ### I Love Side-Projects 👩🏻‍💻
-- [Coding King](https://www.codingking.net)
-- [JS-APPS](https://github.com/hernandoabella/js-apps)
-- [Killer One Liners](https://github.com/hernandoabella/killer-one-liners)
-- [{PROGRAMS}](https://github.com/hernandoabella/programs)
-- [Pattern Programs](https://github.com/hernandoabella/pattern-programs)
-- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator)
-- [Fancy Code Lines](https://fancy-code-lines.vercel.app/)
-- [Follower Party](https://github.com/hernandoabella/follower-party)
+- [Coding King](https://www.codingking.net): Quick resources for learning to code.
+- [JS-APPS](https://github.com/hernandoabella/js-apps): JavaScript app collection.
+- [Killer One Liners](https://github.com/hernandoabella/killer-one-liners): Functions in only one-line.
+- [{PROGRAMS}](https://github.com/hernandoabella/programs): All programs for beginners.
+- [Pattern Programs](https://github.com/hernandoabella/pattern-programs): Pattern program figures.
+- [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
+- [Fancy Code Lines](https://fancy-code-lines.vercel.app/): Convert your code into fancy lines.
+- [Follower Party](https://github.com/hernandoabella/follower-party): Celebrate your followers.
 - [Coding Clash](https://github.com/hernandoabella/coding-clash): Battle your friend in a coding challenge.
