@@ -1,6 +1,9 @@
 <img width="1584" height="396" alt="Banner for Github" src="https://github.com/user-attachments/assets/760bd064-07f2-41b4-b7eb-ecb2a38097d0" />
 
-> **Contact me:** hernandoabella@gmail.com || **[Schedule a meet](https://calendly.com/hernandoabella)**
+### Available Courses ⬇️
+- [Practical System Design](https://www.github.com/hernandoabella/practical-system-design) 👷
+
+### Useful links 
 - [🫅 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
@@ -9,9 +12,6 @@
 - [📹 Videos](https://youtube.com/c/hernandoabella)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 - [📙 Visual Guides](https://github.com/hernandoabella/visual-guides)
-
-### Available Courses ⬇️
-- [Practical System Design](https://www.github.com/hernandoabella/practical-system-design) 👷
 
 ### I Love Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net): Quick resources for learning to code.
