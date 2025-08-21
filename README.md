@@ -29,3 +29,4 @@
 <a href="https://www.instagram.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" width="30px"/></a>
 <a href="https://www.tiktok.com/@hernandoabella"><img src="https://cdn0.iconfinder.com/data/icons/logos-brands-7/512/TikTok_logo_original0-64.png" width="30px"/></a>
 <a href="https://www.youtube.com/c/hernandoabella"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-64.png" width="30px"/></a>
+<a href="https://www.pinterest.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Pinterest_colored_svg-64.png" width="30px"/></a>
