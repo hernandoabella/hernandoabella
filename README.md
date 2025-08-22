@@ -1,7 +1,8 @@
 <img width="1584" height="396" alt="Banner for Github" src="https://github.com/user-attachments/assets/760bd064-07f2-41b4-b7eb-ecb2a38097d0" />
 
 ### Available Courses ⬇️
-- [Practical System Design](https://www.github.com/hernandoabella/practical-system-design) 👷
+- [System Design Interview](https://www.github.com/hernandoabella/practical-system-design) 👷
+- [Design Patterns](https://github.com/hernandoabella/design-patterns)
 
 ### Useful links 
 - [🫅 Website](https://www.hernandoabella.com)
