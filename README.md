@@ -23,6 +23,7 @@
 - [Fancy Code Lines](https://fancy-code-lines.vercel.app/): Convert your code into fancy lines.
 - [Follower Party](https://github.com/hernandoabella/follower-party): Celebrate your followers.
 - [Coding Clash](https://github.com/hernandoabella/coding-clash): Battle your friend in a coding challenge.
+- [Infographic Generator](https://github.com/hernandoabella/infographic-generator): Generate cool infographics.
 
 ### Follow me:
 <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
