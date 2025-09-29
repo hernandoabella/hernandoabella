@@ -16,7 +16,7 @@
 ### I Love Side-Projects 👩🏻‍💻
 - [Coding King](https://www.codingking.net): Quick resources for learning to code.
 - [JS-APPS](https://github.com/hernandoabella/js-apps): JavaScript app collection.
-- [Killer One Liners](https://github.com/hernandoabella/killer-one-liners): Functions in only one-line.
+- [Killer One Liners](https://github.com/hernandoabella/killer-one-liners): Programs in only one-line.
 - [{PROGRAMS}](https://github.com/hernandoabella/programs): All programs for beginners.
 - [Pattern Programs](https://github.com/hernandoabella/pattern-programs): Pattern program figures.
 - [Testimonial Card Generator](https://github.com/hernandoabella/testimonial-card-generator): Testimonial card generator.
