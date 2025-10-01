@@ -4,11 +4,11 @@
 - [Design Patterns](https://github.com/hernandoabella/design-patterns)
 
 ### Useful links 
+- [📚 Book Catalogue](https://github.com/hernandoabella/book-catalogue)
 - [🫅 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
 - [🚀 Cool Tools](https://github.com/hernandoabella/cool-tools)
-- [📚 Book Collection](https://github.com/hernandoabella/books)
 - [📹 Videos](https://youtube.com/c/hernandoabella)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 - [📙 Visual Guides](https://github.com/hernandoabella/visual-guides)
