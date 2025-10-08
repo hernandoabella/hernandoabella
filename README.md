@@ -1,5 +1,3 @@
-<img width="1584" height="396" alt="Banner for Github" src="https://github.com/user-attachments/assets/b3ad40f7-b417-40b7-956e-530e99398653" />
-
 ### Available Courses ⬇️
 - [Design Patterns](https://github.com/hernandoabella/design-patterns)
 
