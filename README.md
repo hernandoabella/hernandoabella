@@ -2,7 +2,7 @@
 - [Design Patterns](https://github.com/hernandoabella/design-patterns)
 
 ### Useful links 
-- [📚 Book Catalogue](https://github.com/hernandoabella/book-catalogue)
+- [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [🫅 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
