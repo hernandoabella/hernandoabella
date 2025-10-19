@@ -7,7 +7,6 @@
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://medium.com/@hernandoabella)
 - [🚀 Cool Tools](https://github.com/hernandoabella/cool-tools)
-- [📹 Videos](https://youtube.com/c/hernandoabella)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 - [📙 Visual Guides](https://github.com/hernandoabella/visual-guides)
 
