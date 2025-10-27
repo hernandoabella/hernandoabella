@@ -1,6 +1,3 @@
-### Available Courses ⬇️
-- [Design Patterns](https://github.com/hernandoabella/design-patterns)
-
 ### Useful links 
 - [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [🫅 Website](https://www.hernandoabella.com)
@@ -9,6 +6,9 @@
 - [🚀 Cool Tools](https://github.com/hernandoabella/cool-tools)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 - [📙 Visual Guides](https://github.com/hernandoabella/visual-guides)
+
+### Tutorials ⬇️
+- [Design Patterns](https://github.com/hernandoabella/design-patterns)
 
 ### Follow me:
 <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
