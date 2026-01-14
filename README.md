@@ -10,6 +10,7 @@
 - [🔀 Workflows](https://github.com/hernandoabella/workflows)
 - [🌐 Useful websites for devs](https://github.com/hernandoabella/useful-websites-for-devs)
 - [📖 Practical Tutorials for beginners](https://github.com/hernandoabella/tutorials)
+- [🎮 Mini-Games](https://github.com/hernandoabella/mini-games)
 
 ### Follow me:
 <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
