@@ -1,4 +1,3 @@
-## Useful links 
 - [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [👽 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
