@@ -1,3 +1,4 @@
+- [🤖 AI DEV SETUP 2026](https://github.com/hernandoabella/ai-dev-setup)
 - [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [👽 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
