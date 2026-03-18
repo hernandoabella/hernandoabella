@@ -1,4 +1,5 @@
 - [🤖 AI DEVELOPER 2026](https://ai-developer-setup.vercel.app/)
+- [💲 Learn to Make Money Online Now💲](https://the-money-panel.vercel.app/)
 - [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [👽 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
@@ -12,7 +13,8 @@
 - [📖 Practical Tutorials for beginners](https://github.com/hernandoabella/tutorials)
 - [🎮 Mini-Games](https://github.com/hernandoabella/mini-games)
 
-> contact@hernandoabella.com
+### Contact:
+contact@hernandoabella.com
 
 ### Follow me:
 <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
