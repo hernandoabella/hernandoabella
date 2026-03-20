@@ -1,5 +1,5 @@
 - [🤖 AI DEVELOPER 2026](https://ai-developer-setup.vercel.app/)
-- [💲 Learn how to make money online💲](https://the-money-panel.vercel.app/)
+
 - [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [👽 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
@@ -10,11 +10,11 @@
 - [📙 Visual Guides](https://github.com/hernandoabella/visual-guides)
 - [🔀 Workflows](https://github.com/hernandoabella/workflows)
 - [🌐 Useful websites for devs](https://github.com/hernandoabella/useful-websites-for-devs)
-- [📖 Practical Tutorials for beginners](https://github.com/hernandoabella/tutorials)
 - [🎮 Mini-Games](https://github.com/hernandoabella/mini-games)
 
-### Contact:
-contact@hernandoabella.com
+### Resources:
+- [💲 Learn how to make money online💲](https://the-money-panel.vercel.app/)
+- [📖 Tutorials](https://github.com/hernandoabella/tutorials)
 
 ### Follow me:
 <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
@@ -24,3 +24,6 @@ contact@hernandoabella.com
 <a href="https://www.pinterest.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Pinterest_colored_svg-64.png" width="30px"/></a>
 <a href="https://www.linkedin.com/in/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" width="30px"/></a>
 <a href="https://www.medium.com/@hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-64.png" width="30px"/></a>
+
+### Contact:
+contact@hernandoabella.com
