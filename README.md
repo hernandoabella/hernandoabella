@@ -1,5 +1,5 @@
 - [🤖 AI DEVELOPER 2026](https://ai-developer-setup.vercel.app/)
-- [💲 Start Making Money Now💲](https://the-money-panel.vercel.app/)
+- [💲 Learn how to make money online💲](https://the-money-panel.vercel.app/)
 - [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [👽 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
