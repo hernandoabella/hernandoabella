@@ -1,5 +1,6 @@
-- [🤖 AI DEVELOPER 2026](https://ai-developer-setup.vercel.app/)
+### Useful links:
 
+- [🤖 AI DEVELOPER 2026](https://ai-developer-setup.vercel.app/)
 - [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [👽 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
@@ -12,8 +13,8 @@
 - [🌐 Useful websites for devs](https://github.com/hernandoabella/useful-websites-for-devs)
 - [🎮 Mini-Games](https://github.com/hernandoabella/mini-games)
 
-### Resources:
-- [💲 Learn how to make money online💲](https://the-money-panel.vercel.app/)
+### Top Resources:
+- [💲 Making money online 💲](https://the-money-panel.vercel.app/)
 - [📖 Tutorials](https://github.com/hernandoabella/tutorials)
 
 ### Follow me:
