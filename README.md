@@ -8,6 +8,7 @@
 - [🧠 Knowledge Map](https://github.com/hernandoabella/knowledge-map)
 - [📙 Visual Guides](https://github.com/hernandoabella/visual-guides)
 - [🔀 Workflows](https://github.com/hernandoabella/workflows)
+- [🖥️ Snippets](https://github.com/hernandoabella/snippets)
 - [🌐 Useful websites for devs](https://github.com/hernandoabella/useful-websites-for-devs)
 - [🎮 Mini-Games](https://github.com/hernandoabella/mini-games)
 
