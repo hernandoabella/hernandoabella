@@ -2,7 +2,7 @@
 - [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
 - [👽 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
-- [📝 Blog](https://hernandoabella.github.io/)
+- [📝 Blog](https://hernandoabella.com/blog)
 - [🚀 Cool Tools](https://github.com/hernandoabella/cool-tools)
 - [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 - [🧠 Knowledge Map](https://github.com/hernandoabella/knowledge-map)
