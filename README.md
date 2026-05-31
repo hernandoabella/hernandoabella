@@ -4,13 +4,10 @@
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://hernandoabella.com/blog)
 - [🚀 Cool Tools](https://github.com/hernandoabella/cool-tools)
-- [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
-- [🧠 Knowledge Map](https://github.com/hernandoabella/knowledge-map)
-- [📙 Visual Guides](https://github.com/hernandoabella/visual-guides)
-- [🔀 Workflows](https://github.com/hernandoabella/workflows)
 - [🖥️ Snippets](https://github.com/hernandoabella/snippets)
 - [🌐 Useful websites](https://github.com/hernandoabella/useful-websites)
 - [🎮 Mini-Games](https://github.com/hernandoabella/mini-games)
+- [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
 
 ### Top Resources:
 - [💲 Making money online 💲](https://the-money-panel.vercel.app/)
