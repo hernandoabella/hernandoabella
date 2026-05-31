@@ -1,17 +1,7 @@
-### Useful links:
-- [📚 Book Catalog](https://github.com/hernandoabella/book-catalogue)
+### I'm currently working on:
 - [👽 Website](https://www.hernandoabella.com)
 - [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://hernandoabella.com/blog)
-- [🚀 Cool Tools](https://github.com/hernandoabella/cool-tools)
-- [🖥️ Snippets](https://github.com/hernandoabella/snippets)
-- [🌐 Useful websites](https://github.com/hernandoabella/useful-websites)
-- [🎮 Mini-Games](https://github.com/hernandoabella/mini-games)
-- [🗂️ Practical Projects](https://github.com/hernandoabella/practical-projects)
-
-### Top Resources:
-- [💲 Making money online 💲](https://the-money-panel.vercel.app/)
-- [📖 Tutorials](https://github.com/hernandoabella/tutorials)
 
 ### Follow me:
 <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
