@@ -1,6 +1,5 @@
 ### I'm currently working on:
 - [👽 Website](https://www.hernandoabella.com)
-- [🧗 Portfolio](https://portfolio-hernandoabella.vercel.app/)
 - [📝 Blog](https://hernandoabella.com/blog)
 
 ### Follow me:
