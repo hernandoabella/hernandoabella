@@ -1,6 +1,5 @@
 ### I'm currently working on:
 - [👽 Website](https://www.hernandoabella.com)
-- [📝 Blog](https://hernandoabella.com/blog)
 
 ### Follow me:
 <a href="https://www.x.com/hernandoabella"><img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" width="30px"/></a>
